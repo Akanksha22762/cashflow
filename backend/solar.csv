@@ -1,0 +1,487 @@
+plant_id,plant_name,technology,capacity_mw,year,month,description,amount,generation_mwh,capacity_factor
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,7,Capital expenditure on turbine/boiler upgrades; critical spares procured from Thermax; capitalized under PPE.,-213.46,1110394.45,71.07
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,12,Capital expenditure on turbine/boiler upgrades; critical spares procured from L&T Power; capitalized under PPE.,-187.7,1173750.38,75.12
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,3,Routine maintenance and inspection services carried out by GE Power; spares replacement included.,-94.49,1259257.82,80.6
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,11,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-35.97,1094647.18,72.4
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,8,Capital expenditure on turbine/boiler upgrades; critical spares procured from GE Power; capitalized under PPE.,-269.32,1077287.68,68.95
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,11,"Coal procurement of approx 602,055 tons from Essar Shipping; includes rail freight (Indian Railways) and handling charges.",-2375.05,1094647.18,72.4
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,2,Loan disbursement received from SBI Bank for capacity expansion; credited to project escrow account.,1998.56,1060621.48,75.16
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,3,Capital expenditure on turbine/boiler upgrades; critical spares procured from Siemens India; capitalized under PPE.,-904.83,1114280.48,71.32
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,4,"Coal procurement of approx 619,453 tons from Adani Enterprises; includes rail freight (Indian Railways) and handling charges.",-2236.32,1126278.9,74.49
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,2,Overdue invoice settled by Gujarat DISCOM with surcharge; funds received via RTGS.,812.78,1073626.98,76.08
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,7,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-43.1,1131878.16,72.44
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,6,"Energy sale — NTPC Korba Thermal generated 1,183,632 MWh; billed to Chhattisgarh DISCOM at avg tariff ₹3.75/kWh; payment credited to current account.",3906.91,1183632.49,78.28
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,6,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-31.85,1131349.44,74.82
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,3,"Energy sale — NTPC Korba Thermal generated 1,259,258 MWh; billed to Gujarat DISCOM at avg tariff ₹4.07/kWh; payment credited to current account.",4703.01,1259257.82,80.6
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,3,Principal repayment installment to Axis Bank as per amortization schedule.,-266.15,1203865.33,77.05
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,10,Transmission and wheeling charges paid to Chhattisgarh SLDC; included scheduling and DSM settlement.,-211.28,1180153.06,75.53
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,11,"Coal procurement of approx 613,457 tons from Coal India Ltd; includes rail freight (Indian Railways) and handling charges.",-3106.97,1115377.63,73.77
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,5,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-39.66,1146479.34,73.38
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,1,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-71.51,1163020.11,74.44
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,2,"Coal procurement of approx 596,368 tons from Tata Steel; includes rail freight (Indian Railways) and handling charges.",-3777.56,1084305.59,76.84
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,2,Routine maintenance and inspection services carried out by BHEL; spares replacement included.,-100.48,1073626.98,76.08
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,10,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-32.56,1197182.89,76.62
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,8,Loan interest payment to Axis Bank for project finance; servicing for the current period.,-191.3,1091361.93,69.85
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,7,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-49.24,1110394.45,71.07
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,1,"Coal procurement of approx 595,759 tons from Essar Shipping; includes rail freight (Indian Railways) and handling charges.",-3066.16,1083199.73,69.33
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,5,"Coal procurement of approx 630,563 tons from Coal India Ltd; includes rail freight (Indian Railways) and handling charges.",-2386.16,1146479.34,73.38
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,11,"Coal procurement of approx 657,023 tons from Adani Enterprises; includes rail freight (Indian Railways) and handling charges.",-3276.24,1194587.96,79.01
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,10,"Energy sale — NTPC Korba Thermal generated 1,168,178 MWh; billed to Maharashtra DISCOM at avg tariff ₹3.88/kWh; payment credited to current account.",6213.65,1168177.78,74.77
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,2,"Coal procurement of approx 590,494 tons from Adani Enterprises; includes rail freight (Indian Railways) and handling charges.",-3342.01,1073626.98,76.08
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,2,Boiler consumables and limestone additives purchased from Indian Oil (lubricants); tax invoices processed with ITC.,-20.57,1134847.02,77.64
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,10,Loan interest payment to ICICI Bank for project finance; servicing for the current period.,-175.86,1168177.78,74.77
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,12,"Coal procurement of approx 679,058 tons from Mahanadi Coalfields Ltd; includes rail freight (Indian Railways) and handling charges.",-2646.23,1234652.15,79.02
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,10,Boiler consumables and limestone additives purchased from Reliance Chemicals; tax invoices processed with ITC.,-81.62,1168177.78,74.77
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,11,"Energy sale — NTPC Korba Thermal generated 1,147,365 MWh; billed to Maharashtra DISCOM at avg tariff ₹3.89/kWh; payment credited to current account.",6184.44,1147365.35,75.88
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,11,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-79.18,1147365.35,75.88
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,8,Transmission and wheeling charges paid to Chhattisgarh SLDC; included scheduling and DSM settlement.,-244.09,1077287.68,68.95
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,7,Boiler consumables and limestone additives purchased from Nalco Water; tax invoices processed with ITC.,-64.95,1121689.63,71.79
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,3,Principal repayment installment to PNB as per amortization schedule.,-513.89,1161651.44,74.35
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,2,Transmission and wheeling charges paid to PGCIL; included scheduling and DSM settlement.,-211.88,1073626.98,76.08
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,9,Boiler consumables and limestone additives purchased from Deepak Nitrite; tax invoices processed with ITC.,-69.19,1066312.26,70.52
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,6,"Energy sale — NTPC Korba Thermal generated 1,076,761 MWh; billed to Chhattisgarh DISCOM at avg tariff ₹4.30/kWh; payment credited to current account.",3640.25,1076761.21,71.21
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,12,Transmission and wheeling charges paid to PGCIL; included scheduling and DSM settlement.,-86.57,1205488.52,77.16
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,1,"Coal procurement of approx 642,505 tons from Essar Shipping; includes rail freight (Indian Railways) and handling charges.",-2886.71,1168191.24,74.77
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,7,Loan interest payment to SBI Bank for project finance; servicing for the current period.,-72.83,1197461.16,76.64
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,9,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-57.91,971495.07,64.25
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,8,Equity infusion from NTPC Ltd (parent company) in support of expansion and reliability projects; funds deposited to treasury.,2094.16,1091361.93,69.85
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,11,"Energy sale — NTPC Korba Thermal generated 1,194,588 MWh; billed to Chhattisgarh DISCOM at avg tariff ₹4.60/kWh; payment credited to current account.",4116.03,1194587.96,79.01
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,11,Overdue invoice settled by Madhya Pradesh DISCOM with surcharge; funds received via RTGS.,445.45,1094647.18,72.4
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,7,"Energy sale — NTPC Korba Thermal generated 1,117,330 MWh; billed to Maharashtra DISCOM at avg tariff ₹4.55/kWh; payment credited to current account.",5270.43,1117330.04,71.51
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,2,Loan interest payment to HDFC Bank for project finance; servicing for the current period.,-148.14,1060621.48,75.16
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,11,Emergency spares procurement from Siemens India; minor corrective maintenance executed.,-27.44,1094647.18,72.4
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,9,Routine maintenance and inspection services carried out by Thermax; spares replacement included.,-88.72,1069052.97,70.7
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,8,Overdue invoice settled by Maharashtra DISCOM with surcharge; funds received via RTGS.,775.34,1151703.9,73.71
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,11,Transmission and wheeling charges paid to Madhya Pradesh STU; included scheduling and DSM settlement.,-237.43,1094647.18,72.4
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,6,Loan disbursement received from Power Finance Corp for capacity expansion; credited to project escrow account.,1433.21,1131349.44,74.82
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,12,"Coal procurement of approx 620,339 tons from Tata Steel; includes rail freight (Indian Railways) and handling charges.",-2617.95,1127889.15,72.19
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,12,"Coal procurement of approx 641,221 tons from Mahanadi Coalfields Ltd; includes rail freight (Indian Railways) and handling charges.",-2001.37,1165856.91,74.62
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,6,Boiler consumables and limestone additives purchased from Reliance Chemicals; tax invoices processed with ITC.,-22.06,1183632.49,78.28
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,10,Transmission and wheeling charges paid to PGCIL; included scheduling and DSM settlement.,-82.98,1178153.28,75.41
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,5,Loan interest payment to PNB for project finance; servicing for the current period.,-68.07,1217380.48,77.92
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,8,Capital expenditure on turbine/boiler upgrades; critical spares procured from Thermax; capitalized under PPE.,-273.53,1091361.93,69.85
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,8,Emergency spares procurement from BHEL; minor corrective maintenance executed.,-20.46,1151703.9,73.71
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,4,"Coal procurement of approx 626,924 tons from Mahanadi Coalfields Ltd; includes rail freight (Indian Railways) and handling charges.",-3535.56,1139863.22,75.39
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,5,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-71.72,1217380.48,77.92
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,11,"Coal procurement of approx 631,050 tons from Coal India Ltd; includes rail freight (Indian Railways) and handling charges.",-3048.38,1147365.35,75.88
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,12,Transmission and wheeling charges paid to Chhattisgarh SLDC; included scheduling and DSM settlement.,-221.18,1165856.91,74.62
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,10,Capital expenditure on turbine/boiler upgrades; critical spares procured from GE Power; capitalized under PPE.,-121.9,1197182.89,76.62
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,1,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-50.47,1126631.66,72.11
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,11,Boiler consumables and limestone additives purchased from Indian Oil (lubricants); tax invoices processed with ITC.,-34.59,1147365.35,75.88
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,7,Capital expenditure on turbine/boiler upgrades; critical spares procured from Thermax; capitalized under PPE.,-200.47,1197461.16,76.64
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,1,Overdue invoice settled by Madhya Pradesh DISCOM with surcharge; funds received via RTGS.,564.02,1163020.11,74.44
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,2,"Energy sale — NTPC Korba Thermal generated 1,084,306 MWh; billed to Gujarat DISCOM at avg tariff ₹3.90/kWh; payment credited to current account.",4245.8,1084305.59,76.84
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,2,Transmission and wheeling charges paid to PGCIL; included scheduling and DSM settlement.,-151.36,1134847.02,77.64
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,11,Overdue invoice settled by Gujarat DISCOM with surcharge; funds received via RTGS.,185.55,1147365.35,75.88
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,10,Loan interest payment to ICICI Bank for project finance; servicing for the current period.,-198.9,1180153.06,75.53
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,11,"Energy sale — NTPC Korba Thermal generated 1,110,771 MWh; billed to Chhattisgarh DISCOM at avg tariff ₹4.57/kWh; payment credited to current account.",4142.58,1110771.39,73.46
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,9,"Energy sale — NTPC Korba Thermal generated 1,085,721 MWh; billed to Gujarat DISCOM at avg tariff ₹3.94/kWh; payment credited to current account.",4327.36,1085720.78,71.81
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,6,Principal repayment installment to ICICI Bank as per amortization schedule.,-321.49,1118071.29,73.95
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,1,Capital expenditure on turbine/boiler upgrades; critical spares procured from Thermax; capitalized under PPE.,-905.29,1126631.66,72.11
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,12,Principal repayment installment to PNB as per amortization schedule.,-414.22,1173750.38,75.12
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,7,"Coal procurement of approx 614,531 tons from Tata Steel; includes rail freight (Indian Railways) and handling charges.",-2483.72,1117330.04,71.51
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,6,Overdue invoice settled by Madhya Pradesh DISCOM with surcharge; funds received via RTGS.,824.8,1118071.29,73.95
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,9,Loan interest payment to HDFC Bank for project finance; servicing for the current period.,-67.46,1069052.97,70.7
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,3,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-76.54,1114280.48,71.32
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,1,Loan interest payment to ICICI Bank for project finance; servicing for the current period.,-60.51,1168191.24,74.77
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,9,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-62.34,1109105.15,73.35
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,6,"Energy sale — NTPC Korba Thermal generated 1,118,071 MWh; billed to Chhattisgarh DISCOM at avg tariff ₹3.70/kWh; payment credited to current account.",6075.14,1118071.29,73.95
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,5,Transmission and wheeling charges paid to Chhattisgarh SLDC; included scheduling and DSM settlement.,-225.92,1161290.28,74.33
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,10,Loan interest payment to HDFC Bank for project finance; servicing for the current period.,-199.77,1197182.89,76.62
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,5,Loan interest payment to ICICI Bank for project finance; servicing for the current period.,-127.92,1146479.34,73.38
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,3,"Energy sale — NTPC Korba Thermal generated 1,161,651 MWh; billed to Madhya Pradesh DISCOM at avg tariff ₹4.36/kWh; payment credited to current account.",6267.84,1161651.44,74.35
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,8,Loan interest payment to SBI Bank for project finance; servicing for the current period.,-189.3,1119935.12,71.68
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,2,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-75.8,1084305.59,76.84
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,12,Boiler consumables and limestone additives purchased from Reliance Chemicals; tax invoices processed with ITC.,-23.84,1165856.91,74.62
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,8,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-43.72,1119935.12,71.68
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,11,Transmission and wheeling charges paid to Madhya Pradesh STU; included scheduling and DSM settlement.,-193.9,1194587.96,79.01
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,2,Transmission and wheeling charges paid to PGCIL; included scheduling and DSM settlement.,-124.08,1042655.43,73.88
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,11,Loan interest payment to HDFC Bank for project finance; servicing for the current period.,-82.23,1110771.39,73.46
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,2,Transmission and wheeling charges paid to Madhya Pradesh STU; included scheduling and DSM settlement.,-153.07,1060621.48,75.16
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,1,"Coal procurement of approx 619,647 tons from Tata Steel; includes rail freight (Indian Railways) and handling charges.",-2851.74,1126631.66,72.11
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,1,Capital expenditure on turbine/boiler upgrades; critical spares procured from BHEL; capitalized under PPE.,-951.01,1168191.24,74.77
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,4,Annual insurance premium paid to SBI General Insurance; policy renewal for asset and BI coverage.,-108.98,1065838.69,70.49
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,8,Routine maintenance and inspection services carried out by Siemens India; spares replacement included.,-57.37,1077287.68,68.95
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,1,Loan interest payment to PNB for project finance; servicing for the current period.,-109.62,1212141,77.58
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,5,Emergency spares procurement from Siemens India; minor corrective maintenance executed.,-20.77,1217380.48,77.92
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,3,Boiler consumables and limestone additives purchased from Deepak Nitrite; tax invoices processed with ITC.,-76.14,1161651.44,74.35
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,7,Boiler consumables and limestone additives purchased from Indian Oil (lubricants); tax invoices processed with ITC.,-34.43,1131878.16,72.44
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,7,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-51.14,1121689.63,71.79
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,3,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-53.27,1259257.82,80.6
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,3,"Coal procurement of approx 612,854 tons from Essar Shipping; includes rail freight (Indian Railways) and handling charges.",-2346.83,1114280.48,71.32
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,2,Capital expenditure on turbine/boiler upgrades; critical spares procured from L&T Power; capitalized under PPE.,-681.23,1084305.59,76.84
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,1,Boiler consumables and limestone additives purchased from Reliance Chemicals; tax invoices processed with ITC.,-66.63,1126631.66,72.11
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,8,Boiler consumables and limestone additives purchased from Deepak Nitrite; tax invoices processed with ITC.,-44.77,1091355.64,69.85
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,10,"Energy sale — NTPC Korba Thermal generated 1,181,320 MWh; billed to Chhattisgarh DISCOM at avg tariff ₹4.48/kWh; payment credited to current account.",6164.09,1181320.21,75.61
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,7,Overdue invoice settled by Gujarat DISCOM with surcharge; funds received via RTGS.,433.61,1131878.16,72.44
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,6,Loan interest payment to HDFC Bank for project finance; servicing for the current period.,-167.11,1076761.21,71.21
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,8,Transmission and wheeling charges paid to Madhya Pradesh STU; included scheduling and DSM settlement.,-185.4,1119935.12,71.68
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,10,Transmission and wheeling charges paid to PGCIL; included scheduling and DSM settlement.,-182.07,1197182.89,76.62
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,11,"Coal procurement of approx 610,924 tons from Adani Enterprises; includes rail freight (Indian Railways) and handling charges.",-3310.79,1110771.39,73.46
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,10,Overdue invoice settled by Maharashtra DISCOM with surcharge; funds received via RTGS.,581.21,1181320.21,75.61
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,4,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-72.61,1120956.02,74.14
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,3,Principal repayment installment to ICICI Bank as per amortization schedule.,-461.88,1259257.82,80.6
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,11,Equity infusion from NTPC Ltd (parent company) in support of expansion and reliability projects; funds deposited to treasury.,2606.54,1147365.35,75.88
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,6,Boiler consumables and limestone additives purchased from Indian Oil (lubricants); tax invoices processed with ITC.,-68.28,1118071.29,73.95
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,12,"Coal procurement of approx 663,018 tons from Tata Steel; includes rail freight (Indian Railways) and handling charges.",-2738.43,1205488.52,77.16
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,6,Transmission and wheeling charges paid to PGCIL; included scheduling and DSM settlement.,-100.74,1130543.06,74.77
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,5,Overdue invoice settled by Chhattisgarh DISCOM with surcharge; funds received via RTGS.,287.49,1142168.97,73.1
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,7,Loan interest payment to HDFC Bank for project finance; servicing for the current period.,-156.28,1110394.45,71.07
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,4,Annual insurance premium paid to ICICI Lombard; policy renewal for asset and BI coverage.,-95.08,1126278.9,74.49
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,10,Boiler consumables and limestone additives purchased from Indian Oil (lubricants); tax invoices processed with ITC.,-63.75,1181320.21,75.61
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,7,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-38.07,1197461.16,76.64
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,5,Loan interest payment to Axis Bank for project finance; servicing for the current period.,-196.72,1168489.45,74.79
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,6,Transmission and wheeling charges paid to Madhya Pradesh STU; included scheduling and DSM settlement.,-87.8,1118071.29,73.95
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,9,Loan interest payment to SBI Bank for project finance; servicing for the current period.,-145.73,1109105.15,73.35
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,5,"Energy sale — NTPC Korba Thermal generated 1,168,489 MWh; billed to Maharashtra DISCOM at avg tariff ₹4.34/kWh; payment credited to current account.",5602.23,1168489.45,74.79
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,3,"Coal procurement of approx 665,462 tons from Tata Steel; includes rail freight (Indian Railways) and handling charges.",-3055.54,1209931.01,77.44
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,4,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-66.06,1126278.9,74.49
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,5,Transmission and wheeling charges paid to PGCIL; included scheduling and DSM settlement.,-84.97,1168489.45,74.79
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,12,Boiler consumables and limestone additives purchased from Indian Oil (lubricants); tax invoices processed with ITC.,-65.38,1234652.15,79.02
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,8,Loan interest payment to ICICI Bank for project finance; servicing for the current period.,-210.11,1151703.9,73.71
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,6,"Coal procurement of approx 592,218 tons from Mahanadi Coalfields Ltd; includes rail freight (Indian Railways) and handling charges.",-2264.46,1076761.21,71.21
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,4,Loan interest payment to HDFC Bank for project finance; servicing for the current period.,-166.73,1065838.69,70.49
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,10,"Coal procurement of approx 649,084 tons from Mahanadi Coalfields Ltd; includes rail freight (Indian Railways) and handling charges.",-2544.25,1180153.06,75.53
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,3,"Coal procurement of approx 692,591 tons from Tata Steel; includes rail freight (Indian Railways) and handling charges.",-2219.67,1259257.82,80.6
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,1,Boiler consumables and limestone additives purchased from Reliance Chemicals; tax invoices processed with ITC.,-39.24,1163020.11,74.44
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,9,Transmission and wheeling charges paid to Chhattisgarh SLDC; included scheduling and DSM settlement.,-122.7,1109105.15,73.35
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,8,Transmission and wheeling charges paid to Chhattisgarh SLDC; included scheduling and DSM settlement.,-96.51,1151703.9,73.71
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,4,Loan interest payment to ICICI Bank for project finance; servicing for the current period.,-174.76,1139863.22,75.39
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,9,"Energy sale — NTPC Korba Thermal generated 1,066,312 MWh; billed to Chhattisgarh DISCOM at avg tariff ₹4.45/kWh; payment credited to current account.",3565.41,1066312.26,70.52
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,9,Routine maintenance and inspection services carried out by Siemens India; spares replacement included.,-105.78,971495.07,64.25
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,8,"Coal procurement of approx 592,508 tons from Coal India Ltd; includes rail freight (Indian Railways) and handling charges.",-2510.58,1077287.68,68.95
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,7,Boiler consumables and limestone additives purchased from Nalco Water; tax invoices processed with ITC.,-33.03,1197461.16,76.64
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,9,Capital expenditure on turbine/boiler upgrades; critical spares procured from Siemens India; capitalized under PPE.,-450.97,1085720.78,71.81
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,2,"Coal procurement of approx 573,460 tons from Mahanadi Coalfields Ltd; includes rail freight (Indian Railways) and handling charges.",-3191.14,1042655.43,73.88
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,3,Overdue invoice settled by Madhya Pradesh DISCOM with surcharge; funds received via RTGS.,846.82,1161651.44,74.35
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,12,"Energy sale — NTPC Korba Thermal generated 1,165,857 MWh; billed to Madhya Pradesh DISCOM at avg tariff ₹3.78/kWh; payment credited to current account.",3685.93,1165856.91,74.62
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,11,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-56.59,1194587.96,79.01
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,5,Boiler consumables and limestone additives purchased from Reliance Chemicals; tax invoices processed with ITC.,-31.35,1161290.28,74.33
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,2,Transmission and wheeling charges paid to PGCIL; included scheduling and DSM settlement.,-100.96,1084305.59,76.84
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,5,Loan interest payment to SBI Bank for project finance; servicing for the current period.,-69.02,1161290.28,74.33
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,11,Transmission and wheeling charges paid to Chhattisgarh SLDC; included scheduling and DSM settlement.,-135.12,1110771.39,73.46
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,6,Boiler consumables and limestone additives purchased from Reliance Chemicals; tax invoices processed with ITC.,-31.11,1131349.44,74.82
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,5,Overdue invoice settled by Chhattisgarh DISCOM with surcharge; funds received via RTGS.,250.1,1168489.45,74.79
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,8,Boiler consumables and limestone additives purchased from Indian Oil (lubricants); tax invoices processed with ITC.,-66.56,1119935.12,71.68
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,4,Overdue invoice settled by Maharashtra DISCOM with surcharge; funds received via RTGS.,347.7,1120956.02,74.14
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,2,"Coal procurement of approx 624,165 tons from Adani Enterprises; includes rail freight (Indian Railways) and handling charges.",-2685.87,1134847.02,77.64
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,1,Loan disbursement received from Power Finance Corp for capacity expansion; credited to project escrow account.,1037.88,1163020.11,74.44
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,10,Boiler consumables and limestone additives purchased from Deepak Nitrite; tax invoices processed with ITC.,-42.28,1197182.89,76.62
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,9,Routine maintenance and inspection services carried out by Thermax; spares replacement included.,-85.72,1085720.78,71.81
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,10,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-65.71,1181320.21,75.61
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,3,Emergency spares procurement from BHEL; minor corrective maintenance executed.,-19.35,1161651.44,74.35
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,1,Transmission and wheeling charges paid to PGCIL; included scheduling and DSM settlement.,-162.62,1212141,77.58
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,11,Loan interest payment to PNB for project finance; servicing for the current period.,-79.16,1115377.63,73.77
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,2,"Energy sale — NTPC Korba Thermal generated 1,042,655 MWh; billed to Chhattisgarh DISCOM at avg tariff ₹4.52/kWh; payment credited to current account.",5375.3,1042655.43,73.88
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,6,Principal repayment installment to HDFC Bank as per amortization schedule.,-324.4,1130543.06,74.77
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,12,"Energy sale — NTPC Korba Thermal generated 1,127,889 MWh; billed to Maharashtra DISCOM at avg tariff ₹3.84/kWh; payment credited to current account.",4377.82,1127889.15,72.19
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,7,"Energy sale — NTPC Korba Thermal generated 1,197,461 MWh; billed to Maharashtra DISCOM at avg tariff ₹4.11/kWh; payment credited to current account.",4355.11,1197461.16,76.64
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,4,Transmission and wheeling charges paid to Madhya Pradesh STU; included scheduling and DSM settlement.,-140.95,1114286.05,73.7
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,11,Transmission and wheeling charges paid to Madhya Pradesh STU; included scheduling and DSM settlement.,-178.84,1147365.35,75.88
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,6,Overdue invoice settled by Madhya Pradesh DISCOM with surcharge; funds received via RTGS.,263.76,1183632.49,78.28
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,10,"Coal procurement of approx 658,450 tons from Essar Shipping; includes rail freight (Indian Railways) and handling charges.",-3075.14,1197182.89,76.62
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,12,Principal repayment installment to ICICI Bank as per amortization schedule.,-746.01,1234652.15,79.02
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,8,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-42.87,1077287.68,68.95
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,10,Loan disbursement received from Power Finance Corp for capacity expansion; credited to project escrow account.,1725.57,1180153.06,75.53
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,4,Capital expenditure on turbine/boiler upgrades; critical spares procured from BHEL; capitalized under PPE.,-1139.09,1114286.05,73.7
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,8,"Energy sale — NTPC Korba Thermal generated 1,091,362 MWh; billed to Maharashtra DISCOM at avg tariff ₹4.13/kWh; payment credited to current account.",6088.08,1091361.93,69.85
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,8,"Coal procurement of approx 600,245 tons from Tata Steel; includes rail freight (Indian Railways) and handling charges.",-3708.63,1091355.64,69.85
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,1,Emergency spares procurement from BHEL; minor corrective maintenance executed.,-37.86,1126631.66,72.11
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,10,Loan interest payment to HDFC Bank for project finance; servicing for the current period.,-122.99,1178153.28,75.41
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,3,Capital expenditure on turbine/boiler upgrades; critical spares procured from L&T Power; capitalized under PPE.,-487.45,1161651.44,74.35
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,12,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-49.46,1173750.38,75.12
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,8,Capital expenditure on turbine/boiler upgrades; critical spares procured from BHEL; capitalized under PPE.,-1157.96,1091355.64,69.85
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,9,Emergency spares procurement from GE Power; minor corrective maintenance executed.,-35.24,1085720.78,71.81
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,1,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-50.65,1083199.73,69.33
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,4,Annual insurance premium paid to New India Assurance; policy renewal for asset and BI coverage.,-61.95,1120956.02,74.14
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,7,Routine maintenance and inspection services carried out by Thermax; spares replacement included.,-97.48,1131878.16,72.44
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,11,Capital expenditure on turbine/boiler upgrades; critical spares procured from GE Power; capitalized under PPE.,-1057.19,1115377.63,73.77
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,2,Loan interest payment to ICICI Bank for project finance; servicing for the current period.,-145.83,1073626.98,76.08
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,9,Emergency spares procurement from Siemens India; minor corrective maintenance executed.,-35.51,1069052.97,70.7
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,7,"Energy sale — NTPC Korba Thermal generated 1,110,394 MWh; billed to Madhya Pradesh DISCOM at avg tariff ₹4.10/kWh; payment credited to current account.",6042.74,1110394.45,71.07
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,12,"Coal procurement of approx 645,562 tons from Essar Shipping; includes rail freight (Indian Railways) and handling charges.",-3339.41,1173750.38,75.12
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,4,Annual insurance premium paid to New India Assurance; policy renewal for asset and BI coverage.,-100.7,1139863.22,75.39
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,12,"Energy sale — NTPC Korba Thermal generated 1,173,750 MWh; billed to Madhya Pradesh DISCOM at avg tariff ₹4.18/kWh; payment credited to current account.",6463.07,1173750.38,75.12
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,6,Capital expenditure on turbine/boiler upgrades; critical spares procured from BHEL; capitalized under PPE.,-905.06,1131349.44,74.82
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,7,Boiler consumables and limestone additives purchased from Indian Oil (lubricants); tax invoices processed with ITC.,-63.69,1117330.04,71.51
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,12,Emergency spares procurement from BHEL; minor corrective maintenance executed.,-20.96,1234652.15,79.02
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,9,Loan interest payment to PNB for project finance; servicing for the current period.,-188.11,1085720.78,71.81
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,11,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-30.74,1115377.63,73.77
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,3,Boiler consumables and limestone additives purchased from Nalco Water; tax invoices processed with ITC.,-49.89,1209931.01,77.44
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,1,"Coal procurement of approx 639,661 tons from Tata Steel; includes rail freight (Indian Railways) and handling charges.",-2636.83,1163020.11,74.44
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,2,Loan interest payment to ICICI Bank for project finance; servicing for the current period.,-84.35,1134847.02,77.64
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,7,"Energy sale — NTPC Korba Thermal generated 1,131,878 MWh; billed to Chhattisgarh DISCOM at avg tariff ₹3.84/kWh; payment credited to current account.",6457.5,1131878.16,72.44
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,6,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-43.68,1118071.29,73.95
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,8,Overdue invoice settled by Maharashtra DISCOM with surcharge; funds received via RTGS.,888.11,1091361.93,69.85
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,12,Loan interest payment to ICICI Bank for project finance; servicing for the current period.,-190.05,1205488.52,77.16
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,9,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-31.05,1066312.26,70.52
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,11,Capital expenditure on turbine/boiler upgrades; critical spares procured from Siemens India; capitalized under PPE.,-784.03,1194587.96,79.01
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,7,Boiler consumables and limestone additives purchased from Deepak Nitrite; tax invoices processed with ITC.,-63.5,1110394.45,71.07
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,10,Emergency spares procurement from Siemens India; minor corrective maintenance executed.,-13.97,1197182.89,76.62
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,5,Loan interest payment to ICICI Bank for project finance; servicing for the current period.,-176.78,1142168.97,73.1
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,8,Transmission and wheeling charges paid to Chhattisgarh SLDC; included scheduling and DSM settlement.,-163.37,1091355.64,69.85
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,12,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-32.74,1205488.52,77.16
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,11,"Energy sale — NTPC Korba Thermal generated 1,115,378 MWh; billed to Gujarat DISCOM at avg tariff ₹4.02/kWh; payment credited to current account.",4680.88,1115377.63,73.77
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,12,Boiler consumables and limestone additives purchased from Deepak Nitrite; tax invoices processed with ITC.,-27.64,1173750.38,75.12
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,3,Boiler consumables and limestone additives purchased from Reliance Chemicals; tax invoices processed with ITC.,-61.77,1203865.33,77.05
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,3,"Coal procurement of approx 662,125 tons from Adani Enterprises; includes rail freight (Indian Railways) and handling charges.",-2539.08,1203865.33,77.05
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,7,Transmission and wheeling charges paid to PGCIL; included scheduling and DSM settlement.,-230.12,1131878.16,72.44
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,8,"Coal procurement of approx 615,964 tons from Essar Shipping; includes rail freight (Indian Railways) and handling charges.",-2754.47,1119935.12,71.68
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,2,"Energy sale — NTPC Korba Thermal generated 1,060,621 MWh; billed to Maharashtra DISCOM at avg tariff ₹3.71/kWh; payment credited to current account.",5996.91,1060621.48,75.16
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,12,Principal repayment installment to HDFC Bank as per amortization schedule.,-572.62,1165856.91,74.62
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,9,Boiler consumables and limestone additives purchased from Indian Oil (lubricants); tax invoices processed with ITC.,-70.24,1085720.78,71.81
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,6,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-63.81,1183632.49,78.28
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,12,Transmission and wheeling charges paid to PGCIL; included scheduling and DSM settlement.,-116.19,1234652.15,79.02
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,12,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-40.6,1127889.15,72.19
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,4,Boiler consumables and limestone additives purchased from Indian Oil (lubricants); tax invoices processed with ITC.,-56.92,1139863.22,75.39
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,6,"Coal procurement of approx 621,798 tons from Mahanadi Coalfields Ltd; includes rail freight (Indian Railways) and handling charges.",-3277.24,1130543.06,74.77
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,2,Boiler consumables and limestone additives purchased from Deepak Nitrite; tax invoices processed with ITC.,-62.91,1073626.98,76.08
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,6,Transmission and wheeling charges paid to Madhya Pradesh STU; included scheduling and DSM settlement.,-132.53,1076761.21,71.21
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,7,Emergency spares procurement from BHEL; minor corrective maintenance executed.,-11.2,1121689.63,71.79
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,7,Transmission and wheeling charges paid to Chhattisgarh SLDC; included scheduling and DSM settlement.,-145.66,1110394.45,71.07
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,3,Boiler consumables and limestone additives purchased from Deepak Nitrite; tax invoices processed with ITC.,-59.91,1259257.82,80.6
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,3,"Energy sale — NTPC Korba Thermal generated 1,203,865 MWh; billed to Chhattisgarh DISCOM at avg tariff ₹4.21/kWh; payment credited to current account.",5717.36,1203865.33,77.05
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,2,Boiler consumables and limestone additives purchased from Nalco Water; tax invoices processed with ITC.,-41.72,1060621.48,75.16
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,10,"Energy sale — NTPC Korba Thermal generated 1,178,153 MWh; billed to Gujarat DISCOM at avg tariff ₹3.66/kWh; payment credited to current account.",5141.16,1178153.28,75.41
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,6,Capital expenditure on turbine/boiler upgrades; critical spares procured from Siemens India; capitalized under PPE.,-341.91,1076761.21,71.21
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,11,Loan interest payment to HDFC Bank for project finance; servicing for the current period.,-164.19,1147365.35,75.88
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,12,Overdue invoice settled by Chhattisgarh DISCOM with surcharge; funds received via RTGS.,890.17,1205488.52,77.16
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,6,Transmission and wheeling charges paid to Chhattisgarh SLDC; included scheduling and DSM settlement.,-238.37,1131349.44,74.82
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,1,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-52.76,1168191.24,74.77
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,11,Loan interest payment to ICICI Bank for project finance; servicing for the current period.,-93.15,1094647.18,72.4
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,2,"Coal procurement of approx 583,341 tons from Mahanadi Coalfields Ltd; includes rail freight (Indian Railways) and handling charges.",-2357.25,1060621.48,75.16
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,2,Capital expenditure on turbine/boiler upgrades; critical spares procured from GE Power; capitalized under PPE.,-143.64,1134847.02,77.64
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,8,Loan interest payment to PNB for project finance; servicing for the current period.,-102.24,1091355.64,69.85
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,7,Routine maintenance and inspection services carried out by L&T Power; spares replacement included.,-116.59,1110394.45,71.07
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,4,Transmission and wheeling charges paid to Chhattisgarh SLDC; included scheduling and DSM settlement.,-186.27,1120956.02,74.14
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,10,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-33.73,1178153.28,75.41
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,9,"Coal procurement of approx 610,007 tons from Adani Enterprises; includes rail freight (Indian Railways) and handling charges.",-3039.45,1109105.15,73.35
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,2,"Energy sale — NTPC Korba Thermal generated 1,073,627 MWh; billed to Madhya Pradesh DISCOM at avg tariff ₹4.29/kWh; payment credited to current account.",5238.94,1073626.98,76.08
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,3,Transmission and wheeling charges paid to PGCIL; included scheduling and DSM settlement.,-214.83,1209931.01,77.44
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,4,"Coal procurement of approx 586,211 tons from Mahanadi Coalfields Ltd; includes rail freight (Indian Railways) and handling charges.",-2344.24,1065838.69,70.49
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,11,Emergency spares procurement from Siemens India; minor corrective maintenance executed.,-35.05,1110771.39,73.46
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,9,Loan interest payment to Axis Bank for project finance; servicing for the current period.,-153.08,1066312.26,70.52
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,12,Transmission and wheeling charges paid to Madhya Pradesh STU; included scheduling and DSM settlement.,-237.07,1173750.38,75.12
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,1,Boiler consumables and limestone additives purchased from Deepak Nitrite; tax invoices processed with ITC.,-87.1,1083199.73,69.33
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,4,Boiler consumables and limestone additives purchased from Deepak Nitrite; tax invoices processed with ITC.,-42.76,1114286.05,73.7
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,1,"Coal procurement of approx 666,677 tons from Essar Shipping; includes rail freight (Indian Railways) and handling charges.",-2173.2,1212141,77.58
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,5,"Energy sale — NTPC Korba Thermal generated 1,161,290 MWh; billed to Maharashtra DISCOM at avg tariff ₹4.03/kWh; payment credited to current account.",4008.3,1161290.28,74.33
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,6,Boiler consumables and limestone additives purchased from Reliance Chemicals; tax invoices processed with ITC.,-62.28,1130543.06,74.77
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,5,Transmission and wheeling charges paid to Chhattisgarh SLDC; included scheduling and DSM settlement.,-243.83,1146479.34,73.38
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,7,Emergency spares procurement from Thermax; minor corrective maintenance executed.,-26.17,1117330.04,71.51
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,6,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-73.02,1130543.06,74.77
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,10,"Energy sale — NTPC Korba Thermal generated 1,197,183 MWh; billed to Gujarat DISCOM at avg tariff ₹4.51/kWh; payment credited to current account.",5612.01,1197182.89,76.62
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,5,"Coal procurement of approx 669,559 tons from Adani Enterprises; includes rail freight (Indian Railways) and handling charges.",-3410.06,1217380.48,77.92
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,2,"Energy sale — NTPC Korba Thermal generated 1,134,847 MWh; billed to Madhya Pradesh DISCOM at avg tariff ₹3.68/kWh; payment credited to current account.",4026.58,1134847.02,77.64
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,2,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-44.17,1042655.43,73.88
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,5,Boiler consumables and limestone additives purchased from Deepak Nitrite; tax invoices processed with ITC.,-50.5,1142168.97,73.1
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,2,Overdue invoice settled by Gujarat DISCOM with surcharge; funds received via RTGS.,518.45,1134847.02,77.64
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,10,Loan interest payment to Axis Bank for project finance; servicing for the current period.,-155.75,1181320.21,75.61
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,3,Overdue invoice settled by Madhya Pradesh DISCOM with surcharge; funds received via RTGS.,873.44,1114280.48,71.32
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,12,Loan interest payment to Axis Bank for project finance; servicing for the current period.,-113.59,1173750.38,75.12
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,8,"Energy sale — NTPC Korba Thermal generated 1,151,704 MWh; billed to Maharashtra DISCOM at avg tariff ₹4.28/kWh; payment credited to current account.",4120.6,1151703.9,73.71
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,6,Principal repayment installment to Axis Bank as per amortization schedule.,-229.33,1076761.21,71.21
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,10,Routine maintenance and inspection services carried out by BHEL; spares replacement included.,-97.11,1168177.78,74.77
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,3,Loan interest payment to SBI Bank for project finance; servicing for the current period.,-170.9,1114280.48,71.32
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,1,"Energy sale — NTPC Korba Thermal generated 1,168,191 MWh; billed to Madhya Pradesh DISCOM at avg tariff ₹3.99/kWh; payment credited to current account.",4272.79,1168191.24,74.77
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,3,Overdue invoice settled by Madhya Pradesh DISCOM with surcharge; funds received via RTGS.,755.27,1209931.01,77.44
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,11,Boiler consumables and limestone additives purchased from Reliance Chemicals; tax invoices processed with ITC.,-74.97,1110771.39,73.46
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,11,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-79.55,1110771.39,73.46
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,7,"Coal procurement of approx 622,532 tons from Tata Steel; includes rail freight (Indian Railways) and handling charges.",-3662.33,1131878.16,72.44
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,4,Loan interest payment to SBI Bank for project finance; servicing for the current period.,-153.04,1114286.05,73.7
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,7,"Energy sale — NTPC Korba Thermal generated 1,121,690 MWh; billed to Gujarat DISCOM at avg tariff ₹4.38/kWh; payment credited to current account.",4276.1,1121689.63,71.79
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,8,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-30.91,1151703.9,73.71
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,6,Loan interest payment to HDFC Bank for project finance; servicing for the current period.,-137.38,1130543.06,74.77
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,12,Capital expenditure on turbine/boiler upgrades; critical spares procured from Thermax; capitalized under PPE.,-1173.18,1234652.15,79.02
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,8,Loan interest payment to HDFC Bank for project finance; servicing for the current period.,-191.91,1077287.68,68.95
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,12,Capital expenditure on turbine/boiler upgrades; critical spares procured from Siemens India; capitalized under PPE.,-692.89,1205488.52,77.16
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,6,Loan interest payment to SBI Bank for project finance; servicing for the current period.,-203.77,1131349.44,74.82
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,7,Transmission and wheeling charges paid to PGCIL; included scheduling and DSM settlement.,-249.08,1117330.04,71.51
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,7,Loan interest payment to SBI Bank for project finance; servicing for the current period.,-94.54,1131878.16,72.44
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,1,Loan interest payment to Axis Bank for project finance; servicing for the current period.,-121.82,1126631.66,72.11
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,2,Boiler consumables and limestone additives purchased from Indian Oil (lubricants); tax invoices processed with ITC.,-52.78,1084305.59,76.84
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,5,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-49.65,1161290.28,74.33
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,9,"Coal procurement of approx 597,146 tons from Mahanadi Coalfields Ltd; includes rail freight (Indian Railways) and handling charges.",-2712.85,1085720.78,71.81
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,10,"Coal procurement of approx 647,984 tons from Adani Enterprises; includes rail freight (Indian Railways) and handling charges.",-2052.59,1178153.28,75.41
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,7,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-50.5,1117330.04,71.51
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,8,"Energy sale — NTPC Korba Thermal generated 1,077,288 MWh; billed to Chhattisgarh DISCOM at avg tariff ₹3.83/kWh; payment credited to current account.",3550.41,1077287.68,68.95
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,2,Loan interest payment to Axis Bank for project finance; servicing for the current period.,-84.76,1084305.59,76.84
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,3,Boiler consumables and limestone additives purchased from Indian Oil (lubricants); tax invoices processed with ITC.,-54.05,1114280.48,71.32
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,4,"Energy sale — NTPC Korba Thermal generated 1,139,863 MWh; billed to Chhattisgarh DISCOM at avg tariff ₹4.49/kWh; payment credited to current account.",4110.03,1139863.22,75.39
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,5,Routine maintenance and inspection services carried out by Siemens India; spares replacement included.,-108.29,1146479.34,73.38
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,4,Loan disbursement received from SBI Bank for capacity expansion; credited to project escrow account.,1076.68,1114286.05,73.7
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,12,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-38.49,1234652.15,79.02
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,6,Principal repayment installment to PNB as per amortization schedule.,-274.48,1131349.44,74.82
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,7,Transmission and wheeling charges paid to PGCIL; included scheduling and DSM settlement.,-103.79,1121689.63,71.79
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,5,Transmission and wheeling charges paid to Madhya Pradesh STU; included scheduling and DSM settlement.,-96.5,1217380.48,77.92
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,5,Transmission and wheeling charges paid to Chhattisgarh SLDC; included scheduling and DSM settlement.,-93.01,1142168.97,73.1
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,9,Boiler consumables and limestone additives purchased from Reliance Chemicals; tax invoices processed with ITC.,-43.82,1069052.97,70.7
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,6,"Coal procurement of approx 622,242 tons from Coal India Ltd; includes rail freight (Indian Railways) and handling charges.",-3498.6,1131349.44,74.82
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,10,"Coal procurement of approx 642,497 tons from Adani Enterprises; includes rail freight (Indian Railways) and handling charges.",-3748.16,1168177.78,74.77
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,12,"Energy sale — NTPC Korba Thermal generated 1,234,652 MWh; billed to Maharashtra DISCOM at avg tariff ₹4.25/kWh; payment credited to current account.",5893.94,1234652.15,79.02
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,3,Loan interest payment to PNB for project finance; servicing for the current period.,-94.8,1203865.33,77.05
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,5,"Coal procurement of approx 642,669 tons from Adani Enterprises; includes rail freight (Indian Railways) and handling charges.",-2377.54,1168489.45,74.79
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,3,Routine maintenance and inspection services carried out by Siemens India; spares replacement included.,-58.4,1114280.48,71.32
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,10,Emergency spares procurement from BHEL; minor corrective maintenance executed.,-23.79,1180153.06,75.53
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,12,"Energy sale — NTPC Korba Thermal generated 1,205,489 MWh; billed to Gujarat DISCOM at avg tariff ₹4.33/kWh; payment credited to current account.",4403.3,1205488.52,77.16
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,3,"Energy sale — NTPC Korba Thermal generated 1,209,931 MWh; billed to Chhattisgarh DISCOM at avg tariff ₹4.00/kWh; payment credited to current account.",4402.26,1209931.01,77.44
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,4,Transmission and wheeling charges paid to Madhya Pradesh STU; included scheduling and DSM settlement.,-120.54,1126278.9,74.49
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,9,Boiler consumables and limestone additives purchased from Indian Oil (lubricants); tax invoices processed with ITC.,-36.4,971495.07,64.25
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,6,Transmission and wheeling charges paid to PGCIL; included scheduling and DSM settlement.,-203.97,1183632.49,78.28
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,10,"Coal procurement of approx 649,726 tons from Adani Enterprises; includes rail freight (Indian Railways) and handling charges.",-3776.72,1181320.21,75.61
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,1,Routine maintenance and inspection services carried out by Siemens India; spares replacement included.,-80.34,1212141,77.58
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,7,"Coal procurement of approx 616,929 tons from Tata Steel; includes rail freight (Indian Railways) and handling charges.",-2737.25,1121689.63,71.79
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,9,"Coal procurement of approx 534,322 tons from Coal India Ltd; includes rail freight (Indian Railways) and handling charges.",-2282.67,971495.07,64.25
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,1,Transmission and wheeling charges paid to Madhya Pradesh STU; included scheduling and DSM settlement.,-239.2,1163020.11,74.44
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,5,"Energy sale — NTPC Korba Thermal generated 1,142,169 MWh; billed to Gujarat DISCOM at avg tariff ₹3.95/kWh; payment credited to current account.",4065.74,1142168.97,73.1
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,8,Boiler consumables and limestone additives purchased from Deepak Nitrite; tax invoices processed with ITC.,-79.14,1151703.9,73.71
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,10,Transmission and wheeling charges paid to Madhya Pradesh STU; included scheduling and DSM settlement.,-168.02,1181320.21,75.61
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,12,Principal repayment installment to ICICI Bank as per amortization schedule.,-321.18,1205488.52,77.16
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,12,Transmission and wheeling charges paid to Madhya Pradesh STU; included scheduling and DSM settlement.,-186.28,1127889.15,72.19
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,4,Transmission and wheeling charges paid to Madhya Pradesh STU; included scheduling and DSM settlement.,-135.73,1139863.22,75.39
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,4,Loan disbursement received from Power Finance Corp for capacity expansion; credited to project escrow account.,1692.29,1120956.02,74.14
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,10,Boiler consumables and limestone additives purchased from Nalco Water; tax invoices processed with ITC.,-56.86,1178153.28,75.41
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,8,Overdue invoice settled by Gujarat DISCOM with surcharge; funds received via RTGS.,241.79,1091355.64,69.85
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,6,Loan interest payment to PNB for project finance; servicing for the current period.,-157.55,1183632.49,78.28
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,6,"Energy sale — NTPC Korba Thermal generated 1,131,349 MWh; billed to Gujarat DISCOM at avg tariff ₹3.96/kWh; payment credited to current account.",5448.6,1131349.44,74.82
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,2,Routine maintenance and inspection services carried out by GE Power; spares replacement included.,-48.33,1060621.48,75.16
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,4,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-66.43,1114286.05,73.7
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,7,"Coal procurement of approx 610,716 tons from Tata Steel; includes rail freight (Indian Railways) and handling charges.",-2389.58,1110394.45,71.07
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,3,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-34.18,1203865.33,77.05
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,9,Loan interest payment to ICICI Bank for project finance; servicing for the current period.,-195.52,971495.07,64.25
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,9,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-69.25,1069052.97,70.7
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,4,"Coal procurement of approx 616,525 tons from Essar Shipping; includes rail freight (Indian Railways) and handling charges.",-2661.47,1120956.02,74.14
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,3,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-54.11,1161651.44,74.35
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,3,Transmission and wheeling charges paid to Madhya Pradesh STU; included scheduling and DSM settlement.,-233.57,1259257.82,80.6
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,10,Overdue invoice settled by Maharashtra DISCOM with surcharge; funds received via RTGS.,776.45,1168177.78,74.77
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,8,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-33.12,1091355.64,69.85
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,9,Emergency spares procurement from Thermax; minor corrective maintenance executed.,-24.3,971495.07,64.25
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,1,"Energy sale — NTPC Korba Thermal generated 1,126,632 MWh; billed to Chhattisgarh DISCOM at avg tariff ₹4.32/kWh; payment credited to current account.",3968.39,1126631.66,72.11
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,1,"Energy sale — NTPC Korba Thermal generated 1,083,200 MWh; billed to Chhattisgarh DISCOM at avg tariff ₹3.67/kWh; payment credited to current account.",3605.93,1083199.73,69.33
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,10,Emergency spares procurement from Thermax; minor corrective maintenance executed.,-36.13,1178153.28,75.41
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,10,Capital expenditure on turbine/boiler upgrades; critical spares procured from GE Power; capitalized under PPE.,-758.9,1168177.78,74.77
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,5,Boiler consumables and limestone additives purchased from Indian Oil (lubricants); tax invoices processed with ITC.,-82.34,1146479.34,73.38
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,2,Boiler consumables and limestone additives purchased from Indian Oil (lubricants); tax invoices processed with ITC.,-77.01,1042655.43,73.88
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,4,Emergency spares procurement from L&T Power; minor corrective maintenance executed.,-23.24,1065838.69,70.49
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,4,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-76.07,1139863.22,75.39
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,12,Boiler consumables and limestone additives purchased from Reliance Chemicals; tax invoices processed with ITC.,-46.58,1205488.52,77.16
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,9,"Energy sale — NTPC Korba Thermal generated 1,109,105 MWh; billed to Maharashtra DISCOM at avg tariff ₹4.13/kWh; payment credited to current account.",6431.64,1109105.15,73.35
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,1,Overdue invoice settled by Maharashtra DISCOM with surcharge; funds received via RTGS.,365.35,1126631.66,72.11
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,5,"Coal procurement of approx 638,709 tons from Mahanadi Coalfields Ltd; includes rail freight (Indian Railways) and handling charges.",-2855,1161290.28,74.33
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,12,Boiler consumables and limestone additives purchased from Indian Oil (lubricants); tax invoices processed with ITC.,-30.96,1127889.15,72.19
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,5,Routine maintenance and inspection services carried out by BHEL; spares replacement included.,-59.1,1217380.48,77.92
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,5,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-54.65,1168489.45,74.79
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,12,Loan interest payment to Axis Bank for project finance; servicing for the current period.,-152.37,1127889.15,72.19
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,8,Boiler consumables and limestone additives purchased from Reliance Chemicals; tax invoices processed with ITC.,-59.61,1077287.68,68.95
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,5,Boiler consumables and limestone additives purchased from Reliance Chemicals; tax invoices processed with ITC.,-42.47,1217380.48,77.92
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,9,Loan disbursement received from REC Ltd for capacity expansion; credited to project escrow account.,2166.08,1109105.15,73.35
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,6,Routine maintenance and inspection services carried out by BHEL; spares replacement included.,-86.12,1130543.06,74.77
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,11,Boiler consumables and limestone additives purchased from Nalco Water; tax invoices processed with ITC.,-87.89,1194587.96,79.01
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,9,Principal repayment installment to HDFC Bank as per amortization schedule.,-705.4,1085720.78,71.81
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,4,"Energy sale — NTPC Korba Thermal generated 1,114,286 MWh; billed to Maharashtra DISCOM at avg tariff ₹3.71/kWh; payment credited to current account.",5013.3,1114286.05,73.7
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,10,Transmission and wheeling charges paid to PGCIL; included scheduling and DSM settlement.,-218.37,1168177.78,74.77
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,4,Annual insurance premium paid to ICICI Lombard; policy renewal for asset and BI coverage.,-46.71,1114286.05,73.7
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,5,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-36.33,1142168.97,73.1
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,5,"Energy sale — NTPC Korba Thermal generated 1,217,380 MWh; billed to Gujarat DISCOM at avg tariff ₹3.98/kWh; payment credited to current account.",5507.7,1217380.48,77.92
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,11,Transmission and wheeling charges paid to Madhya Pradesh STU; included scheduling and DSM settlement.,-139.28,1115377.63,73.77
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,1,Loan interest payment to PNB for project finance; servicing for the current period.,-143.68,1163020.11,74.44
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,4,Overdue invoice settled by Chhattisgarh DISCOM with surcharge; funds received via RTGS.,410.07,1114286.05,73.7
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,8,"Energy sale — NTPC Korba Thermal generated 1,119,935 MWh; billed to Madhya Pradesh DISCOM at avg tariff ₹3.76/kWh; payment credited to current account.",4665.7,1119935.12,71.68
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,9,Transmission and wheeling charges paid to Chhattisgarh SLDC; included scheduling and DSM settlement.,-112,1085720.78,71.81
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,8,Loan disbursement received from Power Finance Corp for capacity expansion; credited to project escrow account.,1938.1,1077287.68,68.95
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,10,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-79.2,1168177.78,74.77
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,6,"Coal procurement of approx 614,939 tons from Adani Enterprises; includes rail freight (Indian Railways) and handling charges.",-3263.93,1118071.29,73.95
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,9,Transmission and wheeling charges paid to Chhattisgarh SLDC; included scheduling and DSM settlement.,-163.51,1069052.97,70.7
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,11,Loan interest payment to SBI Bank for project finance; servicing for the current period.,-109.77,1194587.96,79.01
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,1,Boiler consumables and limestone additives purchased from Indian Oil (lubricants); tax invoices processed with ITC.,-87.5,1168191.24,74.77
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,3,Transmission and wheeling charges paid to PGCIL; included scheduling and DSM settlement.,-232.42,1161651.44,74.35
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,9,"Coal procurement of approx 587,979 tons from Tata Steel; includes rail freight (Indian Railways) and handling charges.",-2111.47,1069052.97,70.7
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,1,"Energy sale — NTPC Korba Thermal generated 1,163,020 MWh; billed to Madhya Pradesh DISCOM at avg tariff ₹4.32/kWh; payment credited to current account.",3931.18,1163020.11,74.44
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,9,Principal repayment installment to HDFC Bank as per amortization schedule.,-781.78,971495.07,64.25
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,3,"Energy sale — NTPC Korba Thermal generated 1,114,280 MWh; billed to Chhattisgarh DISCOM at avg tariff ₹3.64/kWh; payment credited to current account.",5911.14,1114280.48,71.32
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,8,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-64.81,1091361.93,69.85
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,6,Overdue invoice settled by Madhya Pradesh DISCOM with surcharge; funds received via RTGS.,320.81,1130543.06,74.77
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,6,"Coal procurement of approx 650,997 tons from Mahanadi Coalfields Ltd; includes rail freight (Indian Railways) and handling charges.",-2260.14,1183632.49,78.28
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,1,Loan interest payment to PNB for project finance; servicing for the current period.,-77.9,1083199.73,69.33
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,4,Boiler consumables and limestone additives purchased from Nalco Water; tax invoices processed with ITC.,-69.64,1120956.02,74.14
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,9,"Energy sale — NTPC Korba Thermal generated 1,069,053 MWh; billed to Gujarat DISCOM at avg tariff ₹3.86/kWh; payment credited to current account.",4060.35,1069052.97,70.7
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,9,Transmission and wheeling charges paid to Madhya Pradesh STU; included scheduling and DSM settlement.,-132.45,1066312.26,70.52
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,3,Loan interest payment to PNB for project finance; servicing for the current period.,-93.82,1259257.82,80.6
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,3,Principal repayment installment to SBI Bank as per amortization schedule.,-470.24,1209931.01,77.44
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,9,Principal repayment installment to PNB as per amortization schedule.,-589.84,1066312.26,70.52
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,4,"Energy sale — NTPC Korba Thermal generated 1,120,956 MWh; billed to Madhya Pradesh DISCOM at avg tariff ₹4.33/kWh; payment credited to current account.",5551.17,1120956.02,74.14
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,11,Boiler consumables and limestone additives purchased from Indian Oil (lubricants); tax invoices processed with ITC.,-23.32,1115377.63,73.77
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,1,Capital expenditure on turbine/boiler upgrades; critical spares procured from Thermax; capitalized under PPE.,-275.72,1163020.11,74.44
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,4,"Energy sale — NTPC Korba Thermal generated 1,126,279 MWh; billed to Madhya Pradesh DISCOM at avg tariff ₹3.95/kWh; payment credited to current account.",4043.75,1126278.9,74.49
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,5,Capital expenditure on turbine/boiler upgrades; critical spares procured from Thermax; capitalized under PPE.,-649.16,1161290.28,74.33
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,12,Loan interest payment to ICICI Bank for project finance; servicing for the current period.,-181.03,1165856.91,74.62
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,2,Loan disbursement received from REC Ltd for capacity expansion; credited to project escrow account.,1051.21,1084305.59,76.84
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,8,Transmission and wheeling charges paid to PGCIL; included scheduling and DSM settlement.,-98.98,1091361.93,69.85
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,1,Transmission and wheeling charges paid to Chhattisgarh SLDC; included scheduling and DSM settlement.,-184.4,1083199.73,69.33
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,9,"Energy sale — NTPC Korba Thermal generated 971,495 MWh; billed to Maharashtra DISCOM at avg tariff ₹3.77/kWh; payment credited to current account.",5787.05,971495.07,64.25
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,6,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-45.49,1076761.21,71.21
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,10,"Energy sale — NTPC Korba Thermal generated 1,180,153 MWh; billed to Maharashtra DISCOM at avg tariff ₹4.47/kWh; payment credited to current account.",4789.05,1180153.06,75.53
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,10,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-60.9,1180153.06,75.53
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,3,Loan interest payment to SBI Bank for project finance; servicing for the current period.,-76.81,1161651.44,74.35
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,8,"Energy sale — NTPC Korba Thermal generated 1,091,356 MWh; billed to Maharashtra DISCOM at avg tariff ₹3.93/kWh; payment credited to current account.",4535.88,1091355.64,69.85
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,1,Transmission and wheeling charges paid to Madhya Pradesh STU; included scheduling and DSM settlement.,-222.41,1126631.66,72.11
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,9,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-33.53,1085720.78,71.81
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,12,Loan interest payment to HDFC Bank for project finance; servicing for the current period.,-85.59,1234652.15,79.02
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,11,Capital expenditure on turbine/boiler upgrades; critical spares procured from Siemens India; capitalized under PPE.,-313.19,1094647.18,72.4
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,9,Principal repayment installment to ICICI Bank as per amortization schedule.,-306.6,1069052.97,70.7
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,9,Boiler consumables and limestone additives purchased from Nalco Water; tax invoices processed with ITC.,-86.47,1109105.15,73.35
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,3,Transmission and wheeling charges paid to Chhattisgarh SLDC; included scheduling and DSM settlement.,-124.46,1114280.48,71.32
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,9,"Coal procurement of approx 586,471 tons from Adani Enterprises; includes rail freight (Indian Railways) and handling charges.",-3522.67,1066312.26,70.52
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,4,"Coal procurement of approx 612,857 tons from Adani Enterprises; includes rail freight (Indian Railways) and handling charges.",-3628.23,1114286.05,73.7
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,1,"Energy sale — NTPC Korba Thermal generated 1,212,141 MWh; billed to Gujarat DISCOM at avg tariff ₹3.69/kWh; payment credited to current account.",4183.87,1212141,77.58
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,5,"Coal procurement of approx 628,192 tons from Coal India Ltd; includes rail freight (Indian Railways) and handling charges.",-2254.08,1142168.97,73.1
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,6,Principal repayment installment to ICICI Bank as per amortization schedule.,-363.14,1183632.49,78.28
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,8,"Coal procurement of approx 633,437 tons from Tata Steel; includes rail freight (Indian Railways) and handling charges.",-3287.99,1151703.9,73.71
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,6,Boiler consumables and limestone additives purchased from Reliance Chemicals; tax invoices processed with ITC.,-34.26,1076761.21,71.21
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,4,Loan interest payment to ICICI Bank for project finance; servicing for the current period.,-214.98,1126278.9,74.49
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,1,Overdue invoice settled by Gujarat DISCOM with surcharge; funds received via RTGS.,373.28,1212141,77.58
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,1,Transmission and wheeling charges paid to Madhya Pradesh STU; included scheduling and DSM settlement.,-216.17,1168191.24,74.77
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,7,Loan interest payment to ICICI Bank for project finance; servicing for the current period.,-117.61,1121689.63,71.79
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,1,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-50.07,1212141,77.58
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,11,"Energy sale — NTPC Korba Thermal generated 1,094,647 MWh; billed to Chhattisgarh DISCOM at avg tariff ₹4.36/kWh; payment credited to current account.",6176.92,1094647.18,72.4
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,11,Boiler consumables and limestone additives purchased from Reliance Chemicals; tax invoices processed with ITC.,-80.72,1094647.18,72.4
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,5,"Energy sale — NTPC Korba Thermal generated 1,146,479 MWh; billed to Chhattisgarh DISCOM at avg tariff ₹4.45/kWh; payment credited to current account.",5761.8,1146479.34,73.38
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,8,Overdue invoice settled by Chhattisgarh DISCOM with surcharge; funds received via RTGS.,758.25,1077287.68,68.95
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,9,Overdue invoice settled by Gujarat DISCOM with surcharge; funds received via RTGS.,507.44,1085720.78,71.81
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,7,Loan interest payment to ICICI Bank for project finance; servicing for the current period.,-133.3,1117330.04,71.51
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,3,Loan interest payment to PNB for project finance; servicing for the current period.,-217.48,1209931.01,77.44
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,6,Capital expenditure on turbine/boiler upgrades; critical spares procured from Siemens India; capitalized under PPE.,-309.84,1183632.49,78.28
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,12,Overdue invoice settled by Madhya Pradesh DISCOM with surcharge; funds received via RTGS.,262.37,1173750.38,75.12
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,2,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-37.13,1060621.48,75.16
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,8,Boiler consumables and limestone additives purchased from Reliance Chemicals; tax invoices processed with ITC.,-45.54,1091361.93,69.85
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,3,"Coal procurement of approx 638,908 tons from Mahanadi Coalfields Ltd; includes rail freight (Indian Railways) and handling charges.",-2899.3,1161651.44,74.35
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,3,Principal repayment installment to PNB as per amortization schedule.,-201.87,1114280.48,71.32
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,2,Loan interest payment to Axis Bank for project finance; servicing for the current period.,-178.7,1042655.43,73.88
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,4,Loan interest payment to SBI Bank for project finance; servicing for the current period.,-152.4,1120956.02,74.14
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,4,"Energy sale — NTPC Korba Thermal generated 1,065,839 MWh; billed to Madhya Pradesh DISCOM at avg tariff ₹3.68/kWh; payment credited to current account.",6313.61,1065838.69,70.49
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,1,Boiler consumables and limestone additives purchased from Indian Oil (lubricants); tax invoices processed with ITC.,-58.4,1212141,77.58
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,2,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-32.14,1134847.02,77.64
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,4,Boiler consumables and limestone additives purchased from Reliance Chemicals; tax invoices processed with ITC.,-35.52,1126278.9,74.49
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,2,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-46.97,1073626.98,76.08
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,2,Capital expenditure on turbine/boiler upgrades; critical spares procured from Siemens India; capitalized under PPE.,-906.14,1042655.43,73.88
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,6,Overdue invoice settled by Gujarat DISCOM with surcharge; funds received via RTGS.,865.07,1076761.21,71.21
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,12,Principal repayment installment to ICICI Bank as per amortization schedule.,-447.38,1127889.15,72.19
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,9,Principal repayment installment to Axis Bank as per amortization schedule.,-514.44,1109105.15,73.35
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,8,"Coal procurement of approx 600,249 tons from Tata Steel; includes rail freight (Indian Railways) and handling charges.",-3396.77,1091361.93,69.85
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,4,Boiler consumables and limestone additives purchased from Indian Oil (lubricants); tax invoices processed with ITC.,-86.78,1065838.69,70.49
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,2,Emergency spares procurement from BHEL; minor corrective maintenance executed.,-36.1,1060621.48,75.16
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,7,"Coal procurement of approx 658,603 tons from Tata Steel; includes rail freight (Indian Railways) and handling charges.",-2587.86,1197461.16,76.64
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,5,Boiler consumables and limestone additives purchased from Nalco Water; tax invoices processed with ITC.,-83.22,1168489.45,74.79
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,4,Transmission and wheeling charges paid to PGCIL; included scheduling and DSM settlement.,-155.49,1065838.69,70.49
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,10,Overdue invoice settled by Chhattisgarh DISCOM with surcharge; funds received via RTGS.,644.3,1197182.89,76.62
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,9,Transmission and wheeling charges paid to Madhya Pradesh STU; included scheduling and DSM settlement.,-147.37,971495.07,64.25
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,6,Loan interest payment to PNB for project finance; servicing for the current period.,-136.81,1118071.29,73.95
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,3,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-65.5,1209931.01,77.44
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2022,3,Transmission and wheeling charges paid to PGCIL; included scheduling and DSM settlement.,-141.42,1203865.33,77.05
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,4,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-43.17,1065838.69,70.49
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,6,"Energy sale — NTPC Korba Thermal generated 1,130,543 MWh; billed to Maharashtra DISCOM at avg tariff ₹3.81/kWh; payment credited to current account.",5942.16,1130543.06,74.77
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2021,10,Boiler consumables and limestone additives purchased from Nalco Water; tax invoices processed with ITC.,-45.22,1180153.06,75.53
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2025,7,Transmission and wheeling charges paid to PGCIL; included scheduling and DSM settlement.,-214.55,1197461.16,76.64
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,12,Overdue invoice settled by Maharashtra DISCOM with surcharge; funds received via RTGS.,880.91,1234652.15,79.02
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2024,12,Salaries and benefits paid to NTPC Korba Thermal staff; payroll run posted.,-68.4,1165856.91,74.62
+NTPC_KORBA_T1,NTPC Korba Thermal,Thermal,2100,2023,9,Overdue invoice settled by Madhya Pradesh DISCOM with surcharge; funds received via RTGS.,842.98,1109105.15,73.35
