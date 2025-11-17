@@ -1,0 +1,292 @@
+AI REASONING API - USAGE EXAMPLES
+==================================
+
+NEW API ENDPOINTS FOR AI REASONING & INSIGHTS
+All endpoints use OpenAI API (not hardcoded) for dynamic reasoning.
+
+BASE URL: http://localhost:5000
+
+
+1. GET AI REASONING STATUS
+---------------------------
+Endpoint: GET /ai-reasoning/status
+
+Response:
+{
+  "status": "available",
+  "available": true,
+  "capabilities": [
+    "Transaction Categorization Reasoning",
+    "Vendor Extraction Analysis",
+    "Trend Analysis with Insights",
+    "Executive Summaries",
+    "Business Recommendations"
+  ]
+}
+
+
+2. TRANSACTION CATEGORIZATION REASONING
+----------------------------------------
+Endpoint: POST /ai-reasoning/categorization
+
+Request Body:
+{
+  "transaction_description": "Coal procurement from Tata Steel",
+  "category": "Operating Activities"
+}
+
+Returns: AI explanation of WHY this transaction was categorized this way,
+         business impact, validation checks, and recommendations.
+
+
+3. BATCH CATEGORIZATION INSIGHTS
+---------------------------------
+Endpoint: POST /ai-reasoning/batch-categorization
+
+Request Body:
+{
+  "transactions": [
+    {"description": "Energy sale", "amount": 5000000, "date": "2024-01-15"},
+    {"description": "Coal purchase", "amount": -2000000, "date": "2024-01-20"}
+  ],
+  "categories": ["Operating Activities", "Operating Activities"]
+}
+
+Returns: How AI batch processing works, internal mechanics, business insights,
+         quality metrics, and actionable recommendations.
+
+
+4. VENDOR EXTRACTION REASONING
+-------------------------------
+Endpoint: POST /ai-reasoning/vendor-extraction
+
+Request Body:
+{
+  "transaction_description": "Payment to Axis Bank for loan interest",
+  "extracted_vendor": "Axis Bank"
+}
+
+Returns: AI explanation of how vendor was extracted, confidence validation,
+         business value, vendor insights, and recommendations.
+
+
+5. VENDOR LANDSCAPE ANALYSIS
+-----------------------------
+Endpoint: POST /ai-reasoning/vendor-landscape
+
+Request Body:
+{
+  "vendors": ["Tata Steel", "Axis Bank", "Gujarat DISCOM"],
+  "transactions": [
+    {"description": "...", "amount": 1000, "vendor": "Tata Steel"},
+    ...
+  ]
+}
+
+Returns: Vendor concentration analysis, segmentation, financial insights,
+         risk assessment, and strategic recommendations.
+
+
+6. TREND ANALYSIS WITH REASONING
+---------------------------------
+Endpoint: POST /ai-reasoning/trend-analysis
+
+Request Body:
+{
+  "trend_type": "revenue_trends",
+  "transactions": [
+    {"description": "...", "amount": 1000, "date": "...", "category": "..."},
+    ...
+  ],
+  "filters": {
+    "date_range": "last_6_months",
+    "category": "Operating Activities"
+  }
+}
+
+Returns: AI analysis methodology, trend identification, business insights,
+         predictive analysis, root cause analysis, actionable recommendations,
+         and risk/opportunity assessment.
+
+
+7. EXECUTIVE SUMMARY
+--------------------
+Endpoint: POST /ai-reasoning/executive-summary
+
+Request Body:
+{
+  "transactions": [...],
+  "vendors": [...],
+  "categories": [...]
+}
+
+Returns: Key findings, financial health score, critical actions,
+         strategic opportunities, risk alerts, performance metrics,
+         and 30-60-90 day action plan.
+
+
+8. EXPLAIN AI SYSTEM
+--------------------
+Endpoint: GET /ai-reasoning/explain-system
+
+No request body required.
+
+Returns: What the AI can do, how it works, accuracy & limitations,
+         how to get best results, and continuous improvement approach.
+
+
+9. FULL AI REASONING ANALYSIS
+------------------------------
+Endpoint: POST /ai-reasoning/full-analysis
+
+Request Body:
+{
+  "transactions": [
+    {
+      "description": "...",
+      "amount": 1000,
+      "date": "...",
+      "category": "Operating Activities",
+      "vendor": "Tata Steel"
+    },
+    ...
+  ]
+}
+
+Returns: Complete analysis combining:
+  - Batch categorization insights
+  - Vendor landscape analysis
+  - Trend analysis
+  - Executive summary
+  - AI system explanation
+
+
+INTEGRATION EXAMPLE (JavaScript/TypeScript)
+--------------------------------------------
+
+// Get trend analysis with AI reasoning
+async function getTrendAnalysis(transactions) {
+  const response = await fetch('http://localhost:5000/ai-reasoning/trend-analysis', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({
+      trend_type: 'revenue_trends',
+      transactions: transactions,
+      filters: { date_range: 'last_6_months' }
+    })
+  });
+  
+  const result = await response.json();
+  
+  if (result.status === 'success') {
+    console.log('AI Analysis:', result.analysis);
+    console.log('Business Insights:', result.analysis.business_insights);
+    console.log('Recommendations:', result.analysis.recommendations);
+  }
+}
+
+// Get vendor landscape analysis
+async function getVendorInsights(vendors, transactions) {
+  const response = await fetch('http://localhost:5000/ai-reasoning/vendor-landscape', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({
+      vendors: vendors,
+      transactions: transactions
+    })
+  });
+  
+  const result = await response.json();
+  return result.analysis;
+}
+
+// Get executive summary
+async function getExecutiveSummary(allData) {
+  const response = await fetch('http://localhost:5000/ai-reasoning/executive-summary', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify(allData)
+  });
+  
+  const result = await response.json();
+  return result.summary;
+}
+
+
+KEY FEATURES
+------------
+
+✅ 100% OpenAI API-powered (NO hardcoded responses)
+✅ Dynamic reasoning based on actual data
+✅ Contextual business insights
+✅ Actionable recommendations
+✅ Explains how AI is working internally
+✅ Business impact analysis
+✅ Risk and opportunity assessment
+✅ Strategic planning support
+
+
+WHAT YOU GET FROM EACH ENDPOINT
+--------------------------------
+
+CATEGORIZATION REASONING:
+- Why AI chose this category
+- Business impact explanation
+- Validation checks
+- Alternative interpretations
+- Recommendations
+
+VENDOR EXTRACTION:
+- How AI identified the vendor
+- Confidence levels
+- Vendor insights
+- Due diligence suggestions
+- Contract management tips
+
+TREND ANALYSIS:
+- Pattern identification
+- Business health indicators
+- Predictive forecasts
+- Root cause analysis
+- Strategic recommendations
+- Risk assessment
+
+EXECUTIVE SUMMARY:
+- Top 3-5 key findings
+- Financial health score (0-100)
+- Critical actions needed
+- Strategic opportunities
+- Risk alerts
+- 30-60-90 day action plan
+
+
+TESTING
+-------
+
+Run the test script:
+  python test_ai_reasoning_api.py
+
+Or test individual endpoints with curl:
+
+  curl http://localhost:5000/ai-reasoning/status
+
+  curl -X POST http://localhost:5000/ai-reasoning/categorization \
+    -H "Content-Type: application/json" \
+    -d '{"transaction_description": "Coal procurement", "category": "Operating Activities"}'
+
+
+NOTES
+-----
+
+1. All endpoints require OpenAI API key in .env file
+2. Responses are generated dynamically - not hardcoded
+3. Temperature settings allow for creative yet accurate insights
+4. Advanced model (gpt-4o) used for complex analyses
+5. All responses include timestamps and confidence scores
+

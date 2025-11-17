@@ -1,0 +1,405 @@
+2025-08-26 17:22:35,633 - ERROR - Error creating tables: file is not a database
+2025-08-26 17:22:44,535 - INFO - Database tables created successfully
+2025-08-26 17:22:44,546 - INFO - Stored new file metadata with file_id: 1
+2025-08-26 17:22:44,554 - INFO - Stored cash flow results with result_id: 1
+2025-08-28 11:08:04,081 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-28 11:08:04,089 - INFO - INFO: MySQL connection closed
+2025-08-28 11:18:14,222 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-28 11:18:14,224 - INFO - INFO: MySQL connection closed
+2025-08-28 11:25:09,082 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-28 11:25:09,085 - INFO - INFO: MySQL connection closed
+2025-08-28 11:25:19,656 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-28 11:25:19,658 - INFO - INFO: MySQL connection closed
+2025-08-28 11:25:33,790 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-28 11:25:33,798 - INFO - INFO: MySQL connection closed
+2025-08-28 11:26:48,996 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-28 11:26:48,997 - INFO - INFO: MySQL connection closed
+2025-08-28 11:32:44,975 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-28 11:32:44,994 - INFO - INFO: MySQL connection closed
+2025-08-28 11:33:51,811 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-28 11:33:51,824 - INFO - INFO: MySQL connection closed
+2025-08-28 11:34:17,139 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-28 11:34:17,157 - INFO - INFO: MySQL connection closed
+2025-08-28 11:35:30,855 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-28 11:35:30,865 - INFO - INFO: MySQL connection closed
+2025-08-28 11:36:11,803 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-28 11:36:11,809 - INFO - INFO: MySQL connection closed
+2025-08-28 11:55:46,631 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-28 11:55:46,639 - INFO - INFO: MySQL connection closed
+2025-08-28 12:10:08,801 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-28 12:10:08,811 - INFO - INFO: MySQL connection closed
+2025-08-28 12:12:28,246 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-28 12:12:28,255 - INFO - INFO: MySQL connection closed
+2025-08-28 15:07:42,527 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-28 15:07:42,537 - INFO - SUCCESS: Restored session data for session_id: 33
+2025-08-28 15:07:42,539 - INFO - SUCCESS: Restored session 33 with 4 state types
+2025-08-28 15:07:42,542 - INFO - INFO: MySQL connection closed
+2025-08-29 12:40:14,463 - ERROR - ERROR: MySQL connection error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+2025-08-29 12:43:42,533 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-29 12:44:18,740 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-29 12:44:18,746 - INFO - SUCCESS: Restored session data for session_id: 105
+2025-08-29 12:44:33,597 - INFO - Use pytorch device_name: cpu
+2025-08-29 12:44:33,597 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-29 12:44:38,177 - INFO - Use pytorch device_name: cpu
+2025-08-29 12:44:38,178 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-29 12:44:41,337 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-29 12:44:41,342 - INFO - SUCCESS: Restored session data for session_id: 105
+2025-08-29 12:44:41,342 - INFO - SUCCESS: Restored session 105 with 4 state types
+2025-08-29 12:44:41,343 - INFO - Set current session to 105
+2025-08-29 12:45:38,534 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-29 12:45:38,541 - INFO - SUCCESS: Restored session data for session_id: 105
+2025-08-29 12:45:38,565 - INFO - INFO: MySQL connection closed
+2025-08-29 13:06:29,079 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-29 13:06:29,089 - INFO - SUCCESS: Restored session data for session_id: 106
+2025-08-29 13:06:29,107 - INFO - INFO: MySQL connection closed
+2025-08-29 13:06:44,912 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-29 13:06:44,918 - INFO - SUCCESS: Restored session data for session_id: 106
+2025-08-29 13:06:44,934 - INFO - INFO: MySQL connection closed
+2025-08-29 13:15:16,661 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-29 13:15:16,667 - INFO - SUCCESS: Restored session data for session_id: 106
+2025-08-29 13:15:16,687 - INFO - INFO: MySQL connection closed
+2025-08-29 13:46:17,555 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-29 13:46:17,559 - INFO - SUCCESS: Restored session data for session_id: 112
+2025-08-29 13:46:17,577 - INFO - INFO: MySQL connection closed
+2025-08-29 13:56:02,856 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-29 13:56:02,863 - INFO - SUCCESS: Restored session data for session_id: 112
+2025-08-29 13:56:02,890 - INFO - INFO: MySQL connection closed
+2025-08-29 15:20:42,650 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-29 15:20:42,710 - INFO - INFO: MySQL connection closed
+2025-08-29 15:21:32,276 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-29 15:21:32,292 - INFO - SUCCESS: Restored session data for session_id: 114
+2025-08-29 15:21:32,292 - INFO - SUCCESS: Restored specific session 114
+2025-08-29 15:21:32,296 - INFO - SUCCESS: Restored session data for session_id: 114
+2025-08-29 15:21:32,296 - INFO - SUCCESS: Restored session 114 with 5 state types
+2025-08-29 15:21:32,298 - INFO - INFO: MySQL connection closed
+2025-08-29 15:22:35,162 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-29 15:22:35,174 - INFO - SUCCESS: Restored session data for session_id: 114
+2025-08-29 15:22:35,174 - INFO - SUCCESS: Restored specific session 114
+2025-08-29 15:22:35,181 - INFO - SUCCESS: Restored session data for session_id: 114
+2025-08-29 15:22:35,181 - INFO - SUCCESS: Restored specific session 114
+2025-08-29 15:22:35,186 - INFO - SUCCESS: Restored session data for session_id: 114
+2025-08-29 15:22:35,187 - INFO - SUCCESS: Restored specific session 114
+2025-08-29 15:22:35,188 - INFO - INFO: MySQL connection closed
+2025-08-29 15:23:39,518 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-29 15:23:39,528 - INFO - SUCCESS: Restored session data for session_id: 114
+2025-08-29 15:23:39,528 - INFO - SUCCESS: Restored session 114 with 5 state types
+2025-08-29 15:23:39,531 - INFO - INFO: MySQL connection closed
+2025-08-29 15:23:39,537 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-29 15:23:39,541 - INFO - INFO: MySQL connection closed
+2025-08-29 15:23:39,550 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-29 15:23:39,555 - INFO - SUCCESS: Restored session data for session_id: 114
+2025-08-29 15:23:39,555 - INFO - SUCCESS: Restored specific session 114
+2025-08-29 15:23:39,556 - INFO - INFO: MySQL connection closed
+2025-08-29 15:23:39,565 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-29 15:23:39,568 - INFO - INFO: MySQL connection closed
+2025-08-29 15:26:25,107 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-29 15:26:25,115 - INFO - SUCCESS: Restored session data for session_id: 114
+2025-08-29 15:26:25,116 - INFO - SUCCESS: Restored specific session 114
+2025-08-29 15:26:25,121 - INFO - INFO: MySQL connection closed
+2025-08-29 15:26:25,128 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-29 15:26:25,134 - INFO - SUCCESS: Restored session data for session_id: 114
+2025-08-29 15:26:25,134 - INFO - SUCCESS: Restored specific session 114
+2025-08-29 15:26:25,137 - INFO - INFO: MySQL connection closed
+2025-08-29 15:26:25,144 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-29 15:26:25,149 - INFO - SUCCESS: Restored session data for session_id: 114
+2025-08-29 15:26:25,150 - INFO - SUCCESS: Restored specific session 114
+2025-08-29 15:26:25,152 - INFO - INFO: MySQL connection closed
+2025-08-29 15:26:25,161 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-29 15:26:25,165 - INFO - SUCCESS: Restored session data for session_id: 114
+2025-08-29 15:26:25,166 - INFO - SUCCESS: Restored specific session 114
+2025-08-29 15:26:25,169 - INFO - INFO: MySQL connection closed
+2025-08-29 15:28:53,050 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-29 15:28:53,055 - INFO - SUCCESS: Restored session data for session_id: 114
+2025-08-29 15:28:53,055 - INFO - SUCCESS: Restored specific session 114
+2025-08-29 15:28:53,056 - INFO - INFO: MySQL connection closed
+2025-08-29 15:28:53,065 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-29 15:28:53,071 - INFO - SUCCESS: Restored session data for session_id: 114
+2025-08-29 15:28:53,072 - INFO - SUCCESS: Restored specific session 114
+2025-08-29 15:28:53,072 - INFO - INFO: MySQL connection closed
+2025-08-29 15:31:45,872 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-29 15:31:45,877 - WARNING - No active session ID for saving analysis results
+2025-08-29 15:31:45,878 - WARNING - No active session ID for saving analysis results
+2025-08-29 15:31:45,878 - INFO - INFO: MySQL connection closed
+2025-08-29 15:32:41,917 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-29 15:32:41,932 - INFO - SUCCESS: Restored session data for session_id: 114
+2025-08-29 15:32:41,932 - INFO - SUCCESS: Restored specific session 114
+2025-08-29 15:32:41,933 - INFO - INFO: MySQL connection closed
+2025-08-29 15:32:41,942 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-29 15:32:41,946 - INFO - SUCCESS: Restored session data for session_id: 114
+2025-08-29 15:32:41,947 - INFO - SUCCESS: Restored specific session 114
+2025-08-29 15:32:41,947 - INFO - INFO: MySQL connection closed
+2025-08-29 15:47:09,575 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-29 15:47:09,598 - INFO - INFO: MySQL connection closed
+2025-08-31 15:55:34,684 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-31 16:00:43,422 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-31 16:18:46,146 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-31 21:14:13,812 - ERROR - ERROR: MySQL connection error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+2025-08-31 21:23:39,392 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-31 21:23:39,509 - INFO - SUCCESS: trends_analysis_details table ready
+2025-08-31 21:23:39,532 - INFO - INFO: MySQL connection closed
+2025-08-31 21:25:48,343 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-08-31 21:25:48,382 - INFO - INFO: MySQL connection closed
+2025-09-02 10:51:30,109 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-02 10:51:30,226 - INFO - INFO: MySQL connection closed
+2025-09-02 10:51:39,325 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-02 10:51:39,480 - INFO - INFO: MySQL connection closed
+2025-09-02 10:51:48,058 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-02 10:51:58,394 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-02 10:59:39,826 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-02 10:59:45,878 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-02 11:07:13,122 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-02 11:07:42,119 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:08:59,833 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:08:59,949 - INFO - INFO: MySQL connection closed
+2025-09-17 13:09:00,245 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:09:00,835 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:09:01,155 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:09:01,355 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:09:01,397 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.111:5000
+2025-09-17 13:09:01,398 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-17 13:09:01,401 - INFO -  * Restarting with stat
+2025-09-17 13:09:04,667 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:09:04,761 - INFO - INFO: MySQL connection closed
+2025-09-17 13:09:05,031 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:09:05,182 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:09:05,752 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:09:06,025 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:09:06,052 - WARNING -  * Debugger is active!
+2025-09-17 13:09:06,057 - INFO -  * Debugger PIN: 805-524-320
+2025-09-17 13:09:26,235 - INFO -  * Detected change in 'D:\\CASHFLOW-SAP-BANK - Copy\\mysql_database_manager.py', reloading
+2025-09-17 13:09:26,390 - INFO -  * Restarting with stat
+2025-09-17 13:09:29,636 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:09:29,674 - INFO - SUCCESS: MySQL connection test successful
+2025-09-17 13:09:29,698 - INFO - INFO: MySQL connection closed
+2025-09-17 13:09:29,855 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:09:29,948 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:09:30,107 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:09:30,191 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:09:30,220 - WARNING -  * Debugger is active!
+2025-09-17 13:09:30,223 - INFO -  * Debugger PIN: 805-524-320
+2025-09-17 13:09:33,280 - INFO -  * Detected change in 'D:\\CASHFLOW-SAP-BANK - Copy\\mysql_database_manager.py', reloading
+2025-09-17 13:09:33,562 - INFO -  * Restarting with stat
+2025-09-17 13:09:37,604 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:09:37,688 - INFO - SUCCESS: MySQL connection test successful
+2025-09-17 13:09:37,718 - INFO - INFO: MySQL connection closed
+2025-09-17 13:09:37,983 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:09:38,114 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:09:38,335 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:09:38,473 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:09:38,503 - WARNING -  * Debugger is active!
+2025-09-17 13:09:38,505 - INFO -  * Debugger PIN: 805-524-320
+2025-09-17 13:09:44,393 - INFO - 127.0.0.1 - - [17/Sep/2025 13:09:44] "[32mGET / HTTP/1.1[0m" 302 -
+2025-09-17 13:09:44,438 - INFO - 127.0.0.1 - - [17/Sep/2025 13:09:44] "GET /api/auth/login HTTP/1.1" 200 -
+2025-09-17 13:09:45,135 - INFO - 127.0.0.1 - - [17/Sep/2025 13:09:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-09-17 13:09:46,597 - INFO -  * Detected change in 'D:\\CASHFLOW-SAP-BANK - Copy\\mysql_database_manager.py', reloading
+2025-09-17 13:09:46,744 - INFO -  * Restarting with stat
+2025-09-17 13:09:50,726 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:09:50,796 - INFO - SUCCESS: MySQL connection test successful
+2025-09-17 13:09:50,860 - INFO - INFO: MySQL connection closed
+2025-09-17 13:09:51,075 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:09:51,206 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:09:51,382 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:09:51,508 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:09:51,535 - WARNING -  * Debugger is active!
+2025-09-17 13:09:51,537 - INFO -  * Debugger PIN: 805-524-320
+2025-09-17 13:09:51,650 - WARNING - User login failed: Invalid username/email or password
+2025-09-17 13:09:51,651 - INFO - 127.0.0.1 - - [17/Sep/2025 13:09:51] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2025-09-17 13:10:15,325 - WARNING - User login failed: Invalid username/email or password
+2025-09-17 13:10:15,326 - INFO - 127.0.0.1 - - [17/Sep/2025 13:10:15] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2025-09-17 13:10:22,180 - WARNING - User login failed: Invalid username/email or password
+2025-09-17 13:10:22,181 - INFO - 127.0.0.1 - - [17/Sep/2025 13:10:22] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2025-09-17 13:11:02,578 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:11:02,726 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:11:03,052 - INFO - SUCCESS: User registered - demo@cashflow.com (ID: 1)
+2025-09-17 13:11:03,272 - WARNING - User demo@cashflow.com logged in with unverified email
+2025-09-17 13:11:04,306 - INFO - SUCCESS: User logged in - demo@cashflow.com (ID: 1)
+2025-09-17 13:11:04,695 - INFO - INFO: MySQL connection closed
+2025-09-17 13:11:14,800 - INFO - 127.0.0.1 - - [17/Sep/2025 13:11:14] "GET /api/auth/login HTTP/1.1" 200 -
+2025-09-17 13:11:17,207 - INFO -  * Detected change in 'D:\\CASHFLOW-SAP-BANK - Copy\\setup_demo_user.py', reloading
+2025-09-17 13:11:17,344 - INFO -  * Restarting with stat
+2025-09-17 13:11:20,845 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:11:20,905 - INFO - SUCCESS: MySQL connection test successful
+2025-09-17 13:11:20,969 - INFO - INFO: MySQL connection closed
+2025-09-17 13:11:21,561 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:11:21,697 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:11:21,961 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:11:22,115 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:11:22,138 - WARNING -  * Debugger is active!
+2025-09-17 13:11:22,140 - INFO -  * Debugger PIN: 805-524-320
+2025-09-17 13:11:22,289 - WARNING - User demo@cashflow.com logged in with unverified email
+2025-09-17 13:11:22,505 - INFO - SUCCESS: User logged in - demo@cashflow.com (ID: 1)
+2025-09-17 13:11:22,505 - INFO - User login successful: demo@cashflow.com
+2025-09-17 13:11:22,511 - INFO - 127.0.0.1 - - [17/Sep/2025 13:11:22] "POST /api/auth/login HTTP/1.1" 200 -
+2025-09-17 13:11:24,221 - INFO - 127.0.0.1 - - [17/Sep/2025 13:11:24] "GET / HTTP/1.1" 200 -
+2025-09-17 13:11:24,382 - INFO - 127.0.0.1 - - [17/Sep/2025 13:11:24] "GET /static/styles.css HTTP/1.1" 200 -
+2025-09-17 13:11:24,541 - INFO - 127.0.0.1 - - [17/Sep/2025 13:11:24] "GET /static/logo.png?v=3 HTTP/1.1" 200 -
+2025-09-17 13:11:26,043 - INFO - 127.0.0.1 - - [17/Sep/2025 13:11:26] "[33mGET /get-current-data HTTP/1.1[0m" 404 -
+2025-09-17 13:12:03,360 - INFO - 127.0.0.1 - - [17/Sep/2025 13:12:03] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2025-09-17 13:12:12,370 - INFO - 127.0.0.1 - - [17/Sep/2025 13:12:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-09-17 13:12:12,385 - INFO - 127.0.0.1 - - [17/Sep/2025 13:12:12] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-09-17 13:12:32,794 - INFO -  * Detected change in 'D:\\CASHFLOW-SAP-BANK - Copy\\app_with_auth.py', reloading
+2025-09-17 13:12:32,933 - INFO -  * Restarting with stat
+2025-09-17 13:12:42,217 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:12:44,233 - INFO - SUCCESS: MySQL connection test successful
+2025-09-17 13:12:44,662 - INFO - INFO: MySQL connection closed
+2025-09-17 13:12:49,027 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:12:52,804 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:12:53,930 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:12:54,073 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:12:54,099 - WARNING -  * Debugger is active!
+2025-09-17 13:12:54,103 - INFO -  * Debugger PIN: 805-524-320
+2025-09-17 13:12:59,147 - INFO -  * Detected change in 'D:\\CASHFLOW-SAP-BANK - Copy\\app_with_auth.py', reloading
+2025-09-17 13:12:59,283 - INFO -  * Restarting with stat
+2025-09-17 13:13:02,415 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:13:02,479 - INFO - SUCCESS: MySQL connection test successful
+2025-09-17 13:13:02,503 - INFO - INFO: MySQL connection closed
+2025-09-17 13:13:02,773 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:13:02,931 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:13:03,173 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:13:03,322 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:13:03,348 - WARNING -  * Debugger is active!
+2025-09-17 13:13:03,351 - INFO -  * Debugger PIN: 805-524-320
+2025-09-17 13:13:33,446 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:13:33,565 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:13:33,767 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:13:33,914 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:13:33,925 - INFO - Initializing Cashflow SAP Bank Analysis System with Authentication...
+2025-09-17 13:13:34,015 - INFO - SUCCESS: MySQL connection test successful
+2025-09-17 13:13:34,088 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.111:5000
+2025-09-17 13:13:34,088 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-17 13:13:34,090 - INFO -  * Restarting with stat
+2025-09-17 13:13:35,182 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:13:35,320 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:13:35,601 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:13:35,756 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:13:35,761 - INFO - Initializing Cashflow SAP Bank Analysis System with Authentication...
+2025-09-17 13:13:35,911 - INFO - SUCCESS: MySQL connection test successful
+2025-09-17 13:13:35,936 - WARNING -  * Debugger is active!
+2025-09-17 13:13:35,939 - INFO -  * Debugger PIN: 805-524-320
+2025-09-17 13:13:42,995 - INFO -  * Detected change in 'D:\\CASHFLOW-SAP-BANK - Copy\\app_with_auth.py', reloading
+2025-09-17 13:13:43,115 - INFO -  * Restarting with stat
+2025-09-17 13:13:44,609 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:13:44,726 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:13:44,932 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:13:45,058 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:13:45,063 - INFO - Initializing Cashflow SAP Bank Analysis System with Authentication...
+2025-09-17 13:13:45,148 - INFO - SUCCESS: MySQL connection test successful
+2025-09-17 13:13:45,175 - WARNING -  * Debugger is active!
+2025-09-17 13:13:45,177 - INFO -  * Debugger PIN: 805-524-320
+2025-09-17 13:16:41,391 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:16:41,447 - INFO - SUCCESS: MySQL connection test successful
+2025-09-17 13:16:41,480 - INFO - INFO: MySQL connection closed
+2025-09-17 13:16:41,651 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:16:41,754 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:16:41,996 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:16:42,113 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:16:42,152 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.111:5000
+2025-09-17 13:16:42,153 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-17 13:16:42,154 - INFO -  * Restarting with stat
+2025-09-17 13:16:45,117 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:16:45,275 - INFO - SUCCESS: MySQL connection test successful
+2025-09-17 13:16:45,347 - INFO - INFO: MySQL connection closed
+2025-09-17 13:16:46,628 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:16:46,749 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:16:46,944 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:16:47,115 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:16:47,145 - WARNING -  * Debugger is active!
+2025-09-17 13:16:47,147 - INFO -  * Debugger PIN: 805-524-320
+2025-09-17 13:17:09,909 - INFO - 127.0.0.1 - - [17/Sep/2025 13:17:09] "GET /api/auth/login HTTP/1.1" 200 -
+2025-09-17 13:17:10,074 - INFO - 127.0.0.1 - - [17/Sep/2025 13:17:10] "POST /api/auth/validate HTTP/1.1" 200 -
+2025-09-17 13:17:10,640 - INFO - 127.0.0.1 - - [17/Sep/2025 13:17:10] "GET / HTTP/1.1" 200 -
+2025-09-17 13:17:10,696 - INFO - 127.0.0.1 - - [17/Sep/2025 13:17:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-09-17 13:17:10,966 - INFO - 127.0.0.1 - - [17/Sep/2025 13:17:10] "[36mGET /static/logo.png?v=3 HTTP/1.1[0m" 304 -
+2025-09-17 13:17:12,303 - INFO - 127.0.0.1 - - [17/Sep/2025 13:17:12] "GET /get-current-data HTTP/1.1" 200 -
+2025-09-17 13:17:18,896 - INFO - 127.0.0.1 - - [17/Sep/2025 13:17:18] "GET / HTTP/1.1" 200 -
+2025-09-17 13:17:19,248 - INFO - 127.0.0.1 - - [17/Sep/2025 13:17:19] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-09-17 13:17:19,249 - INFO - 127.0.0.1 - - [17/Sep/2025 13:17:19] "[36mGET /static/logo.png?v=3 HTTP/1.1[0m" 304 -
+2025-09-17 13:17:20,385 - INFO - 127.0.0.1 - - [17/Sep/2025 13:17:20] "GET /get-current-data HTTP/1.1" 200 -
+2025-09-17 13:19:18,505 - INFO - 127.0.0.1 - - [17/Sep/2025 13:19:18] "GET / HTTP/1.1" 200 -
+2025-09-17 13:19:18,542 - INFO - 127.0.0.1 - - [17/Sep/2025 13:19:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-09-17 13:19:18,791 - INFO - 127.0.0.1 - - [17/Sep/2025 13:19:18] "[36mGET /static/logo.png?v=3 HTTP/1.1[0m" 304 -
+2025-09-17 13:19:19,801 - INFO - 127.0.0.1 - - [17/Sep/2025 13:19:19] "GET /get-current-data HTTP/1.1" 200 -
+2025-09-17 13:19:40,045 - INFO -  * Detected change in 'D:\\CASHFLOW-SAP-BANK - Copy\\app_fixed.py', reloading
+2025-09-17 13:19:40,388 - INFO -  * Restarting with stat
+2025-09-17 13:19:42,409 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:19:42,503 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:19:42,732 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:19:42,861 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:19:42,866 - INFO - Initializing Cashflow SAP Bank Analysis System with Authentication...
+2025-09-17 13:19:42,946 - INFO - SUCCESS: MySQL connection test successful
+2025-09-17 13:19:42,976 - WARNING -  * Debugger is active!
+2025-09-17 13:19:42,978 - INFO -  * Debugger PIN: 805-524-320
+2025-09-17 13:21:34,884 - INFO -  * Detected change in 'D:\\CASHFLOW-SAP-BANK - Copy\\app.py', reloading
+2025-09-17 13:21:35,050 - INFO -  * Restarting with stat
+2025-09-17 13:21:35,523 - INFO -  * Detected change in 'D:\\CASHFLOW-SAP-BANK - Copy\\app.py', reloading
+2025-09-17 13:21:35,684 - INFO -  * Restarting with stat
+2025-09-17 13:21:36,520 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:21:36,622 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:21:36,875 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:21:37,015 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:21:37,022 - INFO - Initializing Cashflow SAP Bank Analysis System with Authentication...
+2025-09-17 13:21:37,101 - INFO - SUCCESS: MySQL connection test successful
+2025-09-17 13:21:37,135 - WARNING -  * Debugger is active!
+2025-09-17 13:21:37,137 - INFO -  * Debugger PIN: 805-524-320
+2025-09-17 13:21:39,650 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:21:39,698 - INFO - SUCCESS: MySQL connection test successful
+2025-09-17 13:21:39,728 - INFO - INFO: MySQL connection closed
+2025-09-17 13:21:39,942 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:21:40,092 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:21:40,269 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:21:40,370 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:21:40,404 - WARNING -  * Debugger is active!
+2025-09-17 13:21:40,408 - INFO -  * Debugger PIN: 805-524-320
+2025-09-17 13:21:49,496 - INFO -  * Detected change in 'D:\\CASHFLOW-SAP-BANK - Copy\\app.py', reloading
+2025-09-17 13:21:49,683 - INFO -  * Restarting with stat
+2025-09-17 13:21:50,255 - INFO -  * Detected change in 'D:\\CASHFLOW-SAP-BANK - Copy\\app.py', reloading
+2025-09-17 13:21:50,518 - INFO -  * Restarting with stat
+2025-09-17 13:21:52,762 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:21:52,891 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:21:53,141 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:21:53,274 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:21:53,280 - INFO - Initializing Cashflow SAP Bank Analysis System with Authentication...
+2025-09-17 13:21:53,342 - INFO - SUCCESS: MySQL connection test successful
+2025-09-17 13:21:53,379 - WARNING -  * Debugger is active!
+2025-09-17 13:21:53,383 - INFO -  * Debugger PIN: 805-524-320
+2025-09-17 13:21:54,525 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:21:54,593 - INFO - SUCCESS: MySQL connection test successful
+2025-09-17 13:21:54,621 - INFO - INFO: MySQL connection closed
+2025-09-17 13:21:54,915 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:21:55,043 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:21:55,243 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:21:55,365 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:21:55,390 - WARNING -  * Debugger is active!
+2025-09-17 13:21:55,393 - INFO -  * Debugger PIN: 805-524-320
+2025-09-17 13:22:01,456 - INFO -  * Detected change in 'D:\\CASHFLOW-SAP-BANK - Copy\\app.py', reloading
+2025-09-17 13:22:01,457 - INFO -  * Detected change in 'D:\\CASHFLOW-SAP-BANK - Copy\\app.py', reloading
+2025-09-17 13:22:01,634 - INFO -  * Restarting with stat
+2025-09-17 13:22:01,646 - INFO -  * Restarting with stat
+2025-09-17 13:22:03,085 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:22:03,212 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:22:03,670 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:22:03,828 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:22:03,835 - INFO - Initializing Cashflow SAP Bank Analysis System with Authentication...
+2025-09-17 13:22:03,914 - INFO - SUCCESS: MySQL connection test successful
+2025-09-17 13:22:03,946 - WARNING -  * Debugger is active!
+2025-09-17 13:22:03,949 - INFO -  * Debugger PIN: 805-524-320
+2025-09-17 13:22:05,664 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:22:05,708 - INFO - SUCCESS: MySQL connection test successful
+2025-09-17 13:22:05,728 - INFO - INFO: MySQL connection closed
+2025-09-17 13:22:05,950 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:22:06,092 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:22:06,295 - INFO - SUCCESS: Connected to MySQL database: cashflow
+2025-09-17 13:22:06,393 - INFO - SUCCESS: Authentication tables created/verified
+2025-09-17 13:22:06,423 - WARNING -  * Debugger is active!
+2025-09-17 13:22:06,426 - INFO -  * Debugger PIN: 805-524-320
+2025-09-17 13:22:15,495 - INFO -  * Detected change in 'D:\\CASHFLOW-SAP-BANK - Copy\\app.py', reloading
+2025-09-17 13:22:15,634 - INFO -  * Restarting with stat

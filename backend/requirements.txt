@@ -1,0 +1,57 @@
+# Cash Flow Analysis System - Complete Requirements
+# For EC2 Deployment
+
+# Core ML Libraries
+xgboost==3.0.2
+scikit-learn==1.7.0
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# AI and Text Processing
+sentence-transformers==5.0.0
+openai==1.93.1
+# ollama==0.5.1  # Replaced with OpenAI
+
+# Financial Data and Technical Analysis
+yfinance>=0.2.0
+talib-binary>=0.4.0
+
+# Deep Learning and Advanced ML
+tensorflow>=2.15.0
+tf-keras>=2.20.0
+
+# Data Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0
+dash>=3.0.0
+
+# Web Framework and HTTP
+flask>=2.0.0
+flask-cors>=3.0.10
+requests>=2.25.0
+gunicorn>=20.1.0
+waitress>=2.0.0
+aiohttp>=3.8.0
+asyncio-throttle>=1.0.0
+
+# Data Processing
+openpyxl>=3.0.0
+xlrd>=2.0.0
+python-dateutil>=2.8.0
+
+# Utilities and Monitoring
+python-dotenv>=0.19.0
+psutil>=5.8.0
+
+# PDF Generation
+reportlab>=3.6.0
+
+# Database (Optional)
+sqlalchemy>=1.4.0
+
+# Development (Optional)
+# pytest>=6.0.0
+# black>=21.0.0
+# flake8>=3.9.0
