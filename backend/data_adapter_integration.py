@@ -63,12 +63,13 @@ class DataAdapterIntegration:
         
         return adapted_data
     
-    def preprocess_file(self, file_path: str) -> pd.DataFrame:
+    def preprocess_file(self, file_path: str, test_limit: int = None) -> pd.DataFrame:
         """
         Load and preprocess a file using the universal adapter.
         
         Args:
             file_path: Path to the file
+            test_limit: Limit number of transactions for testing (default: None for no limit)
             
         Returns:
             Preprocessed DataFrame ready for analysis
@@ -78,8 +79,8 @@ class DataAdapterIntegration:
         
         logger.info(f"Loading and preprocessing file: {file_path}")
         
-        # Load and adapt the data
-        adapted_data = UniversalDataAdapter.load_and_adapt(file_path)
+        # Load and adapt the data (pass test_limit to avoid default 20 limit)
+        adapted_data = UniversalDataAdapter.load_and_adapt(file_path, test_limit=test_limit)
         
         # Store dataset profile
         self.dataset_profiles[dataset_name] = self.adapter.dataset_profile
@@ -193,28 +194,22 @@ def preprocess_for_analysis(data: pd.DataFrame, dataset_name: str = "unknown") -
     """
     return data_adapter.preprocess_dataset(data, dataset_name)
 
-def load_and_preprocess_file(file_path: str, test_limit: int = 20) -> pd.DataFrame:
+def load_and_preprocess_file(file_path: str, test_limit: int = None) -> pd.DataFrame:
     """
     Convenience function to load and preprocess a file.
     
     Args:
         file_path: Path to the file
-        test_limit: Limit number of transactions for testing (default: 20, set to None for no limit)
+        test_limit: Limit number of transactions for testing (default: None for no limit, set to a number to limit)
         
     Returns:
-        Preprocessed DataFrame ready for analysis, limited to test_limit transactions
+        Preprocessed DataFrame ready for analysis, limited to test_limit transactions if specified
     """
-    result = data_adapter.preprocess_file(file_path)
+    # Pass test_limit to preprocess_file, which will pass it to UniversalDataAdapter.load_and_adapt
+    result = data_adapter.preprocess_file(file_path, test_limit=test_limit)
     
-    # ===== TESTING MODE: LIMIT TO 20 TRANSACTIONS =====
-    if result is not None and test_limit:
-        original_count = len(result)
-        
-        if original_count > test_limit:
-            print(f"🧪 TEST MODE: Limiting dataset from {original_count} to {test_limit} transactions")
-            result = result.head(test_limit)
-            print(f"✅ Dataset limited to first {test_limit} transactions")
-        
+    # Note: The limit is now applied inside UniversalDataAdapter.load_and_adapt, so we don't need to limit again here
+    if result is not None:
         print(f"📊 Final dataset size: {len(result)} transactions")
     
     return result
