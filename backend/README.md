@@ -54,7 +54,24 @@ Create a `.env` file in the backend folder:
 OPENAI_API_KEY=your_openai_api_key_here
 FLASK_ENV=development
 FLASK_APP=app.py
+
+# CORS Configuration - Frontend URLs
+# For localhost development, leave these empty or use defaults
+FRONTEND_URL=http://localhost:3000
+
+# For EC2 deployment, set these:
+# EC2_FRONTEND_IP=13.126.18.17
+# EC2_FRONTEND_PORT=3000
+
+# Backend URL (optional, for EC2 deployment)
+# BACKEND_URL=http://13.204.84.17:5000
+# EC2_BACKEND_IP=13.204.84.17
+# EC2_BACKEND_PORT=5000
 ```
+
+**Important**: The CORS configuration now supports both localhost and EC2 deployments. Set the appropriate environment variables based on your deployment:
+- **Localhost**: Use defaults or set `FRONTEND_URL=http://localhost:3000`
+- **EC2**: Set `EC2_FRONTEND_IP` and `EC2_FRONTEND_PORT` to your EC2 instance IP and port
 
 ## ▶️ Running the Backend
 
@@ -140,9 +157,14 @@ gunicorn -w 4 -b 0.0.0.0:5000 app:app
 
 ## 🔄 Integration with Next.js Frontend
 
-The backend is configured with CORS to allow requests from:
-- `http://localhost:3000`
-- `http://127.0.0.1:3000`
+The backend is configured with CORS to allow requests from multiple origins:
+- `http://localhost:3000` (default)
+- `http://127.0.0.1:3000` (default)
+- `http://localhost:3001` (alternative local port)
+- Custom frontend URLs via `FRONTEND_URL` environment variable
+- EC2 frontend URLs via `EC2_FRONTEND_IP` and `EC2_FRONTEND_PORT` environment variables
+
+The CORS configuration is environment-aware and automatically adjusts based on your `.env` settings.
 
 ### Example API Call from Frontend:
 ```javascript

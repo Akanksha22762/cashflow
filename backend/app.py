@@ -8875,15 +8875,62 @@ cash_flow_forecaster = CashFlowForecaster()
 app = Flask(__name__, static_folder='static', static_url_path='/static')
 app.secret_key = 'your-secret-key-here'  # Required for session
 
-# Enable CORS for Next.js frontend
+# Enable CORS for Next.js frontend - Environment-aware configuration
 from flask_cors import CORS
-CORS(app, resources={
-    r"/*": {
-        "origins": ["http://13.126.18.17:3000", "http://127.0.0.1:3000"],
-        "methods": ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
-        "allow_headers": ["Content-Type", "Authorization"]
-    }
-})
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
+
+# Get CORS origins from environment or use defaults
+FLASK_ENV = os.getenv('FLASK_ENV', 'development')
+FRONTEND_URL = os.getenv('FRONTEND_URL', '')
+EC2_FRONTEND_IP = os.getenv('EC2_FRONTEND_IP', '')
+EC2_FRONTEND_PORT = os.getenv('EC2_FRONTEND_PORT', '3000')
+
+# Build allowed origins list
+allowed_origins = [
+    "http://localhost:3000",
+    "http://127.0.0.1:3000",
+    "http://localhost:3001",  # Alternative local port
+    "http://127.0.0.1:3001",
+    # Default EC2 frontend IP (can be overridden via EC2_FRONTEND_IP environment variable)
+    "http://13.126.18.17:3000",  # Default EC2 frontend
+]
+
+# Add EC2 frontend URL if provided
+if EC2_FRONTEND_IP:
+    ec2_url = f"http://{EC2_FRONTEND_IP}:{EC2_FRONTEND_PORT}"
+    if ec2_url not in allowed_origins:
+        allowed_origins.append(ec2_url)
+
+# Add custom frontend URL if provided
+if FRONTEND_URL:
+    if FRONTEND_URL not in allowed_origins:
+        allowed_origins.append(FRONTEND_URL)
+
+# In development mode, allow all origins for easier testing
+# In production, use specific origins
+if FLASK_ENV == 'development':
+    print(f"🔓 CORS: Development mode - Allowing origins: {allowed_origins}")
+    CORS(app, resources={
+        r"/*": {
+            "origins": allowed_origins,
+            "methods": ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+            "allow_headers": ["Content-Type", "Authorization"],
+            "supports_credentials": True
+        }
+    })
+else:
+    print(f"🔒 CORS: Production mode - Allowing origins: {allowed_origins}")
+    CORS(app, resources={
+        r"/*": {
+            "origins": allowed_origins,
+            "methods": ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+            "allow_headers": ["Content-Type", "Authorization"],
+            "supports_credentials": True
+        }
+    })
 
 # ===== AUTOMATIC STATE RESTORATION ON STARTUP =====
 def restore_application_state():
@@ -12055,7 +12102,8 @@ def upload_files_with_ml_ai():
                 primary_file.save(temp_file_path)
                 
                 # Use the adapter to load and preprocess the file
-                uploaded_bank_df = load_and_preprocess_file(temp_file_path)
+                # Set test_limit=None to process ALL transactions (not just 20)
+                uploaded_bank_df = load_and_preprocess_file(temp_file_path, test_limit=None)
                 
                 print(f"✅ Universal Data Adapter successfully processed {file_type} file")
                 print(f"🔍 Adapter mapped columns: {get_adaptation_report().get('column_mapping', {})}")
@@ -16851,11 +16899,18 @@ def create_category_specific_transactions(category_type):
 @app.route('/')
 def home():
     """API Home - Returns API info and available endpoints"""
+    # Get frontend URL from environment or use default
+    frontend_url = os.getenv('FRONTEND_URL', 'http://localhost:3000')
+    ec2_frontend_ip = os.getenv('EC2_FRONTEND_IP', '')
+    ec2_frontend_port = os.getenv('EC2_FRONTEND_PORT', '3000')
+    if ec2_frontend_ip:
+        frontend_url = f"http://{ec2_frontend_ip}:{ec2_frontend_port}"
+    
     return jsonify({
         'status': 'success',
         'message': 'Cash Flow Analysis API - Backend Server',
         'version': '2.0',
-        'frontend_url': 'http://13.126.18.17:3000',
+        'frontend_url': frontend_url,
         'api_endpoints': {
             'upload': '/upload',
             'status': '/status',
@@ -16864,7 +16919,7 @@ def home():
             'cash_flow_forecast': '/cash-flow-forecast',
             'anomaly_detection': '/anomaly-detection'
         },
-        'documentation': 'Visit http://13.126.18.17:3000 for the frontend interface'
+        'documentation': f'Visit {frontend_url} for the frontend interface'
     })
 
 @app.route('/debug')
@@ -24590,8 +24645,13 @@ if __name__ == '__main__':
     # Environment-based server URL
     def get_server_url():
         """Get server URL based on environment"""
-        if os.getenv('ENVIRONMENT') == 'EC2':
-            return "http://13.204.84.17:5000"
+        backend_url = os.getenv('BACKEND_URL', '')
+        if backend_url:
+            return backend_url
+        elif os.getenv('ENVIRONMENT') == 'EC2' or os.getenv('EC2_BACKEND_IP'):
+            ec2_backend_ip = os.getenv('EC2_BACKEND_IP', '127.0.0.1')
+            ec2_backend_port = os.getenv('EC2_BACKEND_PORT', '5000')
+            return f"http://{ec2_backend_ip}:{ec2_backend_port}"
         else:
             return "http://127.0.0.1:5000"
 

@@ -371,16 +371,16 @@ class UniversalDataAdapter:
             return 'unknown'
     
     @classmethod
-    def load_and_adapt(cls, file_path: str, test_limit: int = 20) -> pd.DataFrame:
+    def load_and_adapt(cls, file_path: str, test_limit: int = None) -> pd.DataFrame:
         """
         Load a file and adapt it to the standard format.
         
         Args:
             file_path: Path to the file to load
-            test_limit: Limit number of transactions for testing (default: 20, set to None for no limit)
+            test_limit: Limit number of transactions for testing (default: None for no limit, set to a number to limit)
             
         Returns:
-            Adapted DataFrame limited to test_limit transactions
+            Adapted DataFrame (limited to test_limit transactions if specified)
         """
         adapter = cls()
         
