@@ -1,0 +1,14 @@
+# Quick Install Guide for requirements.txt
+# 
+# Option 1: Install all dependencies
+# pip install -r requirements.txt
+#
+# Option 2: Install without optional ML packages (if you don't need ML features)
+# pip install Flask flask-cors python-dotenv pandas numpy openpyxl mysql-connector-python openai reportlab requests python-dateutil typing-extensions pytz
+#
+# Option 3: Install minimal set (core functionality only)
+# pip install Flask flask-cors python-dotenv pandas numpy openpyxl openai reportlab
+#
+# Note: XGBoost and sentence-transformers are optional but recommended for ML features
+# They can be skipped if you only need basic functionality
+

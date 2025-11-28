@@ -1,0 +1,6 @@
+[MESSAGES CONTROL]
+disable=import-error,no-name-in-module,missing-module-docstring
+
+[TYPECHECK]
+ignored-modules=app_setup,routes
+
